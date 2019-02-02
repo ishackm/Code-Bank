@@ -1,7 +1,7 @@
 from flask import Flask, url_for,redirect, render_template
 from flask_bootstrap import Bootstrap
 from flask_uploads import UploadSet, configure_uploads, DATA
-from upload import uploaded_file
+from uploadfile import uploaded_file
 
 
 
