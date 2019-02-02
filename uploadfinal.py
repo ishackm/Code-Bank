@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from pandas.plotting import _converter
 
-def uploaded_file:
+def uploaded_file():
     UPLOAD_FOLDER = os.path.dirname(os.path.abspath(__file__)) + '/csv/'
     ALLOWED_EXTENSIONS = {'csv'}
     app = Flask(__name__, static_url_path="/static")
