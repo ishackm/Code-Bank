@@ -2,7 +2,6 @@ from flask import Flask, url_for,redirect, render_template
 from flask_bootstrap import Bootstrap
 from flask_uploads import UploadSet, configure_uploads, DATA
 from upload import uploaded_file
-from sql import connect_db
 
 
 
