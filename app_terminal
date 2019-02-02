@@ -1,0 +1,63 @@
+from flask import Flask, url_for,redirect, render_template
+from flask import request
+#from flask_bootstrap import Bootstrap
+from flask_uploads import UploadSet, configure_uploads, DATA
+from uploadfinal import process_file
+import os
+from werkzeug.utils import secure_filename
+
+app = Flask(__name__) # Start the Flask app
+
+def allowed_file(filename):
+    return '.' in filename and filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS
+
+ALLOWED_EXTENSIONS = {'csv'}
+
+@app.route('/uploader', methods=['GET', 'POST'])
+def uploader():
+    if request.method == 'POST':
+        if 'file' not in request.files:
+            print('Please upload a csv file')
+            return redirect(request.url)
+        file = request.files['file']
+        if file.filename == '':
+            print('No file selected')
+            return redirect(request.url)
+        if file and allowed_file(file.filename):
+            #filename = secure_filename(file)
+            process_file('output_test.png', file )
+            return redirect(url_for('index'))
+    return render_template('upload.html')
+
+
+@app.route('/')
+def index(): # Home page URL route
+    return render_template('index.html')
+
+@app.route('/upload')
+def upload(): # Upload page URL route
+    return render_template('upload.html')
+
+@app.route('/upload2')
+def upload2(): # Upload_2 page URL route
+    return render_template('upload_page2.html')
+
+@app.route('/kinase_db')
+def kinase_db(): # Kinase Database page URL route
+    return render_template('kinase_db.html')
+
+@app.route('/inhibitor_db')
+def inhibitor_db():# Kinase Inhibitor page URL route
+    return render_template('inhibitor_db.html')
+
+@app.route('/sql')
+def sql(): # SQLite Database URL route
+    return render_template('sql.html')
+
+@app.errorhandler(404)
+def error_404(error): # 404 Error page URL route
+        return render_template('error.html'), 404
+
+# Start the Flask application
+if __name__ == '__main__':
+    app.run(debug=True)
