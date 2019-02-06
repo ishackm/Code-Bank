@@ -10,10 +10,6 @@ class Alt_names(db.Model):
     Protein_name = db.Column(db.String)
     UniqueID = db.Column(db.Integer)
 
-    def __repr__(self):
-        return "<Alt_names: {}>".format(self.name)
-
-
 class Inhibitor(db.Model):
 
     __tablename__ = "Inhibitor"
@@ -23,8 +19,7 @@ class Inhibitor(db.Model):
     Chemical_structure = db.Column(db.String)
     Chemical_diagram = db.Column(db.BLOB)
 
-    def __repr__(self):
-        return "<Inhibitor: {}>".format(self.name)
+
 
 class Kinase(db.Model):
 
@@ -38,8 +33,6 @@ class Kinase(db.Model):
     Genome_location = db.Column(db.String)
     Protein_longname = db.Column(db.String)
 
-    def __repr__(self):
-        return "<Kinase: {}>".format(self.name)
 
 
 class Kinase_Inhibitor(db.Model):
@@ -50,8 +43,6 @@ class Kinase_Inhibitor(db.Model):
     Inhibitor_ID = db.Column(db.Integer)
     Protein_name = db.Column(db.String)
 
-    def __repr__(self):
-        return "<Kinase_Inhibitor: {}>".format(self.name)
 
 class Substrate(db.Model):
 
@@ -61,8 +52,6 @@ class Substrate(db.Model):
     Substrate_name = db.Column(db.String)
     Substrate_gene_name = db.Column(db.String)
 
-    def __repr__(self):
-        return "<Substrate: {}>".format(self.name)
 
 class Substrate_phosphosite(db.Model):
 
@@ -73,8 +62,6 @@ class Substrate_phosphosite(db.Model):
     Modified_residue = db.Column(db.String)
     Neighbour_sequence = db.Column(db.String)
 
-    def __repr__(self):
-        return "<Substrate_phosphosite: {}>".format(self.name)
 
 class Substrate_site_Kinase(db.Model):
 
@@ -83,6 +70,3 @@ class Substrate_site_Kinase(db.Model):
     Substrate_kinase_ID = db.Column(db.Integer, primary_key=True)
     UniqueID = db.Column(db.Integer)
     Kinase_name = db.Column(db.String)
-
-    def __repr__(self):
-        return "<Substrate_site_Kinase: {}>".format(self.name)

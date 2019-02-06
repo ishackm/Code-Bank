@@ -15,6 +15,7 @@ from db_setup import init_db, db_session
 from form import KinaseForm
 from flask import flash, render_template, request, redirect
 from models import Alt_names
+from tables import Results
 
 init_db()
 
@@ -36,11 +37,12 @@ def search_results(search):
         results = qry.all()
 
     if not results:
-        flash('No results found!')
-        return redirect('/')
+        return redirect(404)
     else:
         # display results
-        return render_template('results.html', results=results)
+        table = Results(results)
+        table.border = True
+        return render_template('results.html', table=table)
 
 
 
