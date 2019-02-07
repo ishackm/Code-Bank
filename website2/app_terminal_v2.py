@@ -5,65 +5,44 @@ from flask_uploads import UploadSet, configure_uploads, DATA
 from uploadfinal import process_file
 import os
 from werkzeug.utils import secure_filename
+from flask_wtf import FlaskForm
+from wtforms import StringField, SubmitField
+from wtforms.validators import Required
 from flask_sqlalchemy import SQLAlchemy
 
-from sqlalchemy import create_engine
-from sqlalchemy.orm import sessionmaker
-from sqlalchemy import MetaData, Table
-from db import session
+from db import app
+from db_setup import init_db, db_session
+from form import KinaseForm
+from flask import flash, render_template, request, redirect
+from models import Alt_names
+from tables import Results
 
-from sqlalchemy import create_engine
-from sqlalchemy.orm import sessionmaker
-from sqlalchemy import MetaData, Table
+init_db()
 
-
-
-app = Flask(__name__)
-
-@app.route('/')
+@app.route('/', methods=['GET', 'POST'])
 def index():
-    return render_template('index.html')
+    search = KinaseForm(request.form)
+    if request.method == 'POST':
+        return search_results(search)
 
-@app.route('/kinase_results', methods=['GET','POST'])
-def kinase_results(search):
-    search1="%"+search+"%"
-    searchresult=[]
-    likequery=session.query(kinase).filter(kinase.c.Kinase_name.like(search1)).all()
-    if likequery!=[]: #if search found kinases, aka if the search entry was a kinase name
-        for x in likequery:
-            if x not in searchresult:
-                searchresult.append(x[:3])
-    likequery=session.query(kinase).filter(kinase.c.Accession_number.like(search1)).all()
-    if likequery!=[]: #if search was an accession number or like an accession number
-        for x in likequery:
-            if x not in searchresult:
-                searchresult.append(x[:3])
-    likequery=session.query(kinase).filter(kinase.c.Gene_symbol.like(search1)).all()
-    if likequery!=[]: #if search was a gene symbol or like a gene symbol
-        for x in likequery:
-            if x not in searchresult:
-                searchresult.append(x[:3])
+    return render_template('index.html', form=search)
 
-    likequery=session.query(alt_names).filter(alt_names.c.Protein_name.like(search1)).all()
-    if likequery!=[]:
-        k_alts=[]
-        for x in likequery:
-            if x.Kinase_name not in k_alts:
-                k_alts.append(x.Kinase_name)
-        for x in k_alts:
-            likequery=session.query(kinase).filter(kinase.c.Kinase_name.like(x)).all()
-            if likequery!=[]: #if search found kinases, aka if the search entry was a kinase name
-                for x in likequery:
-                    if x not in searchresult:
-                        searchresult.append(x[:3])
-            result= new_function(query)
-    elif not request.args.get('search'):
-        return "Invalid Kinase Name, Please check again"
+@app.route('/results')
+def search_results(search):
+    results = []
+    search_string = search.data['search']
+
+    if search.data['search'] == '':
+        qry = db_session.query(Alt_names)
+        results = qry.all()
+
+    if not results:
+        return redirect(404)
     else:
-        print ('Query was:',query)
-        return render_template('kinase_result.html')
-
-
+        # display results
+        table = Results(results)
+        table.border = True
+        return render_template('results.html', table=table)
 
 
 
