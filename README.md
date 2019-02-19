@@ -6,4 +6,3 @@ Ishack
 Richard
 Fatma
 
-Website available at:  falsone-kinase-browser.eu-west-2.elasticbeanstalk.com
