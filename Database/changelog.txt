@@ -1,0 +1,24 @@
+15/1/19 v1:
+Original script uploaded to repository, along with explanation of schema and dummy data.
+
+16/1/19 v1.1:
+Accession number field added to Kinase table. Position and modified residue fields of Phosphosite table merged into Position_ModRes. Primary key adjusted accordingly. Neighbour sequence data type clarified and moved from Kinase to Phosphosite table; neighbour sequence to be specific to each phosphosite (7 amino acids either side). 
+**Issue raised of having all kinases a protein is known to phosphorylate available on kinase request. Potentially searchable by identifying all instances of the kinase in Phosphosite(Modified_by) to give list of kinase targets.**
+
+26/1/19 v1.2:
+Added intermediate table between Kinase and phosphosite; a phoshphosite on a substrate can have more than one kinase meaning a relational table is required between the kinase and phosphosite. Minor layout changes, modifications to primary keys and foreign keys, refining primary keys to remove compound keys. Added unique ID's to the relationship tables where the primary key was previously a combination of the two fields. 
+--ISSUE FOR v1.3: In current intermediate kinase-substrate table one position can still be modified by more than one kinase, the relationship between kinase and substrate at each modres position needs to be excluded to another table.--
+
+28/1/19 v1.3:
+Substrate table refined to better reflect the relationship a site on a substrate can have with multiple kinases. Intermediate accession/substrate name tabe removed [redundant], replaced with intermediate substrate site-kinase table in which the substrate site is identified by its unique ID from the substrate table and matched with all of the kinases that act on that specific site. Further refinement of the substrate table could see specific site information such as modrespos and neighbour sequence separated from substrate name/accession to alleviate of the aforementioned fields for each site, however this is not essential. Will consider for 1.4.
+
+29/1/19 v1.4:
+Schema names and layout updated to better reflect layout and structure of data tables. Unique ID's checked and adjusted to better reflect purpose. All data checked against schema and in correct format. --Still consideration of condensing phosphosite data further to avoid accession repetition--
+
+31/1/19 v1.6-functional: 
+--v1.5 skipped and changes merged into 1.6 changelog, 1.5 mainly served to troubleshoot the database schema and data tables--
+Changes pushed to get database functional. Relationship tables adjusted, foreign keys changed and in some situations removed. Relationship tables were not fitting into database while two foreign keys existed, however both work with one. Issue resolved where MYSQL is unable to distinguish between letter cases and punctuation, making links to alternative names table by key impossible as names technically appear multiple times. Names in several instances of the tables needed whitespace at end of names stripped, as the whitespace meant that the fields did not match alt names. Manually removed instances in alternative names table where two different human kinases would have the same alternative name, manually inserted alternative names which existed in the inhibitor table but not in alternative names. Data reorganised to better reflect database schema, tables renamed to function better with DB Browser for SQlite. Database functional as of 1.6 with minimal data loss (which can be added manually if necessary) and minor optimisations with phosphosite table: accession number consideration, but may serve to overcomplicate.
+
+4/2/19 v1.7-functional:
+Optimisations considered in previous versions implemented; substrate data split from substrate phosphosite table into independent table to reduce data redundancy. Substrate gene name also included in substrate table as requested for alternative function of website (user uploaded file section). Schema re-altered to reinclude foreign keys removed in previous version; relationship tables require two foreign keys, however in previous versions the lack of a unique constraint on a field which was being referenced by a Fkey caused an error. Data missing/redundant in tables causing foreign keys to fail; kinases added manually where missing in table, alt names added where missing etc. Some instances of duplicate values removed. Instances of kinases which do not exist removed. Previous attempts to establish correct relational tables were failing due to data inconsistencies and not schema issues; restored and functional. Data manually curated in places and now contains 'n/a' values where no data existed.
+--n/a values will need removing or filling in--

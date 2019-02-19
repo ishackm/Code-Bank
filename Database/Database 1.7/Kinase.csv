@@ -1,0 +1,544 @@
+Kinase_name,Accession,Gene_symbol,Gene_family,Cell_location,Genome_location,Protein_longname
+A1ATR_HUMAN,P20848,SERPINA2,Serpin family,Endoplasmic reticulum,14q32.13,Putative alpha-1-antitrypsin-related protein 
+AAK1_HUMAN,Q2M2I8,AAK1,Protein kinase superfamily  Ser/Thr protein kinase family,Cell membrane Peripheral membrane protein Membrane  clathrin-coated pit,2p13.3,AP2-associated protein kinase 1  
+AAPK1_HUMAN,Q13131,PRKAA1,Protein kinase superfamily  CAMK Ser/Thr protein kinase family  SNF1 subfamily,Cytoplasm Nucleus,5p13.1,5'-AMP-activated protein kinase catalytic subunit alpha-1 
+AAPK2_HUMAN,P54646,PRKAA2,Protein kinase superfamily  CAMK Ser/Thr protein kinase family  SNF1 subfamily,Cytoplasm Nucleus,1p32.2,5'-AMP-activated protein kinase catalytic subunit alpha-2 
+ABL1_HUMAN,P00519,ABL1,Protein kinase superfamily  Tyr protein kinase family  ABL subfamily,Cytoplasm  cytoskeleton. Nucleus. Mitochondrion,9q34.12,Tyrosine-protein kinase ABL1  
+ABL2_HUMAN,P42684,ABL2,Protein kinase superfamily  Tyr protein kinase family  ABL subfamily,Cytoplasm  cytoskeleton. Nucleus. Mitochondrion,1q25.2,Tyrosine-protein kinase ABL2  
+ACK1_HUMAN,Q07912,TNK2,Protein kinase superfamily  Tyr protein kinase family,Cell membrane. Nucleus. Endosome. Cell junction  adherens junction Cytoplasmic vesicle membrane; Peripheral membrane protein; Cytoplasmic side. Cytoplasmic vesicle  clathrin-coated vesicle. Membrane  clathrin-coated pit. Cytoplasm  perinuclear region,3q29,Activated CDC42 kinase 1 
+ACV1B_HUMAN,P36896,ACVR1B,Protein kinase superfamily  TKL Ser/Thr protein kinase family  TGFB receptor subfamily,Cell membrane Single-pass type I membrane protein,12q13.13,Activin receptor type-1B  
+ACV1C_HUMAN,Q8NER5,ACVR1C,Protein kinase superfamily  TKL Ser/Thr protein kinase family  TGFB receptor subfamily,Membrane Single-pass type I membrane protein,,Activin receptor type-1C  
+ACVL1_HUMAN,P37023,ACVRL1,Protein kinase superfamily  TKL Ser/Thr protein kinase family  TGFB receptor subfamily,Cell membrane Single-pass type I membrane protein,12q13.13,Serine/threonine-protein kinase receptor R3 
+ACVR1_HUMAN,Q04771,ACVR1,Protein kinase superfamily  TKL Ser/Thr protein kinase family  TGFB receptor subfamily,Cytoplasm Cell membrane Peripheral membrane protein,2q24.1,Activin receptor type-1  
+ADCK1_HUMAN,Q86TW2,ADCK1,Protein kinase superfamily  ADCK protein kinase family,Secreted,14q24.3,Uncharacterized aarF domain-containing protein kinase 1 
+ADCK2_HUMAN,Q7Z695,ADCK2,Protein kinase superfamily  ADCK protein kinase family,Membrane Single-pass membrane protein,7q34,Uncharacterized aarF domain-containing protein kinase 2 
+ADCK5_HUMAN,Q3MIX3,ADCK5,Protein kinase superfamily  ADCK protein kinase family,Membrane Single-pass membrane protein,8q24.3,Uncharacterized aarF domain-containing protein kinase 5 
+AKT1_HUMAN,P31749,AKT1,Protein kinase superfamily  AGC Ser/Thr protein kinase family  RAC subfamily,Cytoplasm Nucleus. Cell membrane,14q32.33,RAC-alpha serine/threonine-protein kinase  
+AKT2_HUMAN,P31751,AKT2,Protein kinase superfamily  AGC Ser/Thr protein kinase family  RAC subfamily,Cytoplasm. Nucleus. Cell membrane; Peripheral membrane protein. Early endosome,19q13.2,RAC-beta serine/threonine-protein kinase  
+AKT3_HUMAN,Q9Y243,AKT3,Protein kinase superfamily  AGC Ser/Thr protein kinase family  RAC subfamily,Nucleus Cytoplasm Membrane Peripheral membrane protein,1q43-q44,RAC-gamma serine/threonine-protein kinase  
+ALK_HUMAN,Q9UM73,ALK,Protein kinase superfamily  Tyr protein kinase family  Insulin receptor subfamily,Cell membrane Single-pass type I membrane protein,2p23.2-p23.1,ALK tyrosine kinase receptor  
+ALPK1_HUMAN,Q96QP1,ALPK1,Protein kinase superfamily  Alpha-type protein kinase family  ALPK subfamily,Cytoplasm  cytosol,4q25,Alpha-protein kinase 1  
+ALPK2_HUMAN,Q86TB3,ALPK2,Protein kinase superfamily  Alpha-type protein kinase family  ALPK subfamily,Cytoplasm  cytosol,18q21.31-q21.32,Alpha-protein kinase 2  
+ALPK3_HUMAN,Q96L96,ALPK3,Protein kinase superfamily  Alpha-type protein kinase family  ALPK subfamily,Nucleus,15q25.3,Alpha-protein kinase 3  
+AMHR2_HUMAN,Q16671,AMHR2,Protein kinase superfamily  TKL Ser/Thr protein kinase family  TGFB receptor subfamily,Cell membrane Single-pass type I membrane protein,12q13.13,Anti-Muellerian hormone type-2 receptor  
+ANKK1_HUMAN,Q8NFD2,ANKK1,Protein kinase superfamily  TKL Ser/Thr protein kinase family,Cell membrane Single-pass type I membrane protein,11q23.2,Ankyrin repeat and protein kinase domain-containing protein 1  
+ANPRA_HUMAN,P16066,NPR1,Adenylyl cyclase class-4/guanylyl cyclase family,Cell membrane Single-pass type I membrane protein Endoplasmic reticulum membrane Single-pass type I membrane protein,1q21.3,Atrial natriuretic peptide receptor 1  
+ANPRB_HUMAN,P20594,NPR2,Adenylyl cyclase class-4/guanylyl cyclase family,Cell membrane Single-pass type I membrane protein,9p13.3,Atrial natriuretic peptide receptor 2  
+ANTR1_HUMAN,Q9H6X2,ANTXR1,ATR family,Cell membrane Single-pass type I membrane protein Cell projection  lamellipodium membrane Single-pass type I membrane protein Cell projection  filopodium membrane Single-pass type I membrane protein,2p13.3,Anthrax toxin receptor 1 
+ARAF_HUMAN,P10398,ARAF,Protein kinase superfamily  TKL Ser/Thr protein kinase family  RAF subfamily,Cell membrane Single-pass type I membrane protein,Xp11.3,Serine/threonine-protein kinase A-Raf  
+ARBK1_HUMAN,P25098,GRK2,Protein kinase superfamily  AGC Ser/Thr protein kinase family  GPRK subfamily,Cytoplasm Cell membrane,11q13.2,Beta-adrenergic receptor kinase 1 
+ARBK2_HUMAN,P35626,GRK3,Protein kinase superfamily  AGC Ser/Thr protein kinase family  GPRK subfamily,Cytoplasm Cell membrane,22q12.1,Beta-adrenergic receptor kinase 2 
+ATM_HUMAN,Q13315,ATM,PI3/PI4-kinase family  ATM subfamily,Nucleus Cytoplasmic vesicle,11q22.3,Serine-protein kinase ATM  
+ATR_HUMAN,Q13535,ATR,PI3/PI4-kinase family  ATM subfamily,Nucleus Nucleus  PML body Chromosome,3q23,Serine/threonine-protein kinase ATR  
+AURKA_HUMAN,O14965,AURKA,Protein kinase superfamily  Ser/Thr protein kinase family  Aurora subfamily,Cytoplasm  cytoskeleton  microtubule organizing center  centrosome Cytoplasm  cytoskeleton  spindle pole Cytoplasm  cytoskeleton  cilium basal body Cytoplasm  cytoskeleton  microtubule organizing center  centrosome  centriole,20q13.2,Aurora kinase A  
+AURKB_HUMAN,Q96GD4,AURKB,Protein kinase superfamily  Ser/Thr protein kinase family  Aurora subfamily,Cytoplasm  cytoskeleton  microtubule organizing center  centrosome Cytoplasm  cytoskeleton  spindle pole Cytoplasm  cytoskeleton  cilium basal body Cytoplasm  cytoskeleton  microtubule organizing center  centrosome  centriole,17p13.1,Aurora kinase B  
+AURKC_HUMAN,Q9UQB9,AURKC,Protein kinase superfamily  Ser/Thr protein kinase family  Aurora subfamily,Nucleus. Chromosome. Chromosome  centromere Cytoplasm  cytoskeleton  spindle,19q13.43,Aurora kinase C  
+AVR2A_HUMAN,P27037,ACVR2A,Protein kinase superfamily  TKL Ser/Thr protein kinase family  TGFB receptor subfamily,Membrane Single-pass type I membrane protein,2q22.3-q23.1,Activin receptor type-2A  
+AVR2B_HUMAN,Q13705,ACVR2B,Protein kinase superfamily  TKL Ser/Thr protein kinase family  TGFB receptor subfamily,Cell membrane Single-pass type I membrane protein,3p22.2,Activin receptor type-2B  
+B1_VACCW,P16913,VPK1,Protein kinase superfamily  Ser/Thr protein kinase family  Poxviruses subfamily,Virion Host cytoplasm,,B1 kinase 
+BCKD_HUMAN,O14874,BCKDK,PDK/BCKDK protein kinase family,Mitochondrion matrix. Mitochondrion,16p11.2,[3-methyl-2-oxobutanoate dehydrogenase [lipoamide]] kinase  mitochondrial 
+BLK_HUMAN,P51451,BLK,Protein kinase superfamily  Tyr protein kinase family  SRC subfamily,Cell membrane Lipid-anchor,8p23.1,Tyrosine-protein kinase Blk  
+BMP2K_HUMAN,Q9NSY1,BMP2K,Protein kinase superfamily  Ser/Thr protein kinase family,Nucleus,4q21.21,BMP-2-inducible protein kinase 
+BMPR2_HUMAN,Q13873,BMPR2,Protein kinase superfamily  TKL Ser/Thr protein kinase family  TGFB receptor subfamily,Cell membrane Single-pass type I membrane protein.,2q33.1-q33.2,Bone morphogenetic protein receptor type-2 
+BMR1A_HUMAN,P36894,BMPR1A,Protein kinase superfamily  TKL Ser/Thr protein kinase family  TGFB receptor subfamily,Cell membrane Single-pass type I membrane protein Cell surface,10q23.2,Bone morphogenetic protein receptor type-1A 
+BMR1B_HUMAN,O00238,BMPR1B,Protein kinase superfamily  TKL Ser/Thr protein kinase family  TGFB receptor subfamily,Cell membrane Membrane; Single-pass type I membrane protein.,4q22.3,Bone morphogenetic protein receptor type-1B 
+BMX_HUMAN,P51813,BMX,Protein kinase superfamily  Tyr protein kinase family  TEC subfamily,Cytoplasm,Xp22.2,Cytoplasmic tyrosine-protein kinase BMX  
+BRAF_HUMAN,P15056,BRAF,Protein kinase superfamily  TKL Ser/Thr protein kinase family  RAF subfamily,Nucleus Cytoplasm. Cell membrane,7q34,Serine/threonine-protein kinase B-raf  
+BRSK1_HUMAN,Q8TDC3,BRSK1,Protein kinase superfamily  CAMK Ser/Thr protein kinase family  SNF1 subfamily,Cytoplasm Nucleus Cytoplasm  cytoskeleton  microtubule organizing center  centrosome Cell junction  synapse,19q13.42,Serine/threonine-protein kinase BRSK1  
+BRSK2_HUMAN,Q8IWQ3,BRSK2,Protein kinase superfamily  CAMK Ser/Thr protein kinase family  SNF1 subfamily,Cytoplasm Nucleus Cytoplasm  cytoskeleton  microtubule organizing center  centrosome Cell junction  synapse,11p15.5,Serine/threonine-protein kinase BRSK2  
+BTK_HUMAN,Q06187,BTK,Protein kinase superfamily  Tyr protein kinase family  TEC subfamily,Cytoplasm,Xq22.1,Tyrosine-protein kinase BTK  
+BUB1_HUMAN,O43683,BUB1,Protein kinase superfamily  Ser/Thr protein kinase family  BUB1 subfamily,Nucleus,2q13,Mitotic checkpoint serine/threonine-protein kinase BUB1 
+BUB1B_HUMAN,O60566,BUB1B,Protein kinase superfamily  Ser/Thr protein kinase family  BUB1 subfamily,Nucleus,15q15.1,Mitotic checkpoint serine/threonine-protein kinase BUB1 beta  
+CAMKV_HUMAN,Q8NCB2,CAMKV,Protein kinase superfamily  CAMK Ser/Thr protein kinase family,Cell membrane Peripheral membrane protein Cytoplasmic vesicle membrane Peripheral membrane protein,3p21.31,CaM kinase-like vesicle-associated protein
+CD11A_HUMAN,Q9UQ88,CDK11A,Protein kinase superfamily  CMGC Ser/Thr protein kinase family  CDC2/CDKX subfamily,Cytoplasm  cytoskeleton  cilium basal body,1p36.33,Cyclin-dependent kinase 11A  
+CD11B_HUMAN,P21127,CDK11B,Protein kinase superfamily  CMGC Ser/Thr protein kinase family  CDC2/CDKX subfamily,Cytoplasm  cytoskeleton  cilium basal body,1p36.33,Cyclin-dependent kinase 11B  
+CDC7_HUMAN,O00311,CDC7,Protein kinase superfamily  Ser/Thr protein kinase family  CDC7 subfamily,Nucleus Cytoplasm Cell projection,1p22.1,Cell division cycle 7-related protein kinase 
+CDK1_HUMAN,P06493,CDK1,Protein kinase superfamily  CMGC Ser/Thr protein kinase family  CDC2/CDKX subfamily,Nucleus. Cytoplasm. Mitochondrion. Cytoplasm  cytoskeleton  microtubule organizing center  centrosome Cytoplasm  cytoskeleton  spindle.,10q21.2,Cyclin-dependent kinase 1 
+CDK10_HUMAN,Q15131,CDK10,Protein kinase superfamily  CMGC Ser/Thr protein kinase family  CDC2/CDKX subfamily,Cytoplasm  cytoskeleton  cilium basal body,16q24.3,Cyclin-dependent kinase 10  
+CDK12_HUMAN,Q9NYV4,CDK12,Protein kinase superfamily  CMGC Ser/Thr protein kinase family  CDC2/CDKX subfamily,Cytoplasm  cytoskeleton  cilium basal body,17q12,Cyclin-dependent kinase 12   
+CDK13_HUMAN,Q14004,CDK13,Protein kinase superfamily  CMGC Ser/Thr protein kinase family  CDC2/CDKX subfamily,Nucleus speckle,7p14.1,Cyclin-dependent kinase 13   
+CDK14_HUMAN,O94921,CDK14,Protein kinase superfamily  CMGC Ser/Thr protein kinase family  CDC2/CDKX subfamily,Nucleus speckle,7q21.13,Cyclin-dependent kinase 14  
+CDK15_HUMAN,Q96Q40,CDK15,Protein kinase superfamily  CMGC Ser/Thr protein kinase family  CDC2/CDKX subfamily,Nucleus speckle,2q33.1,Cyclin-dependent kinase 15  
+CDK16_HUMAN,Q00536,CDK16,Protein kinase superfamily  CMGC Ser/Thr protein kinase family  CDC2/CDKX subfamily,Cytoplasm. Cytoplasmic vesicle  secretory vesicle. Cell membrane; Peripheral membrane protein; Cytoplasmic side. Cell junction  synapse  synaptosome,Xp11.3,Cyclin-dependent kinase 16  
+CDK17_HUMAN,Q00537,CDK17,Protein kinase superfamily  CMGC Ser/Thr protein kinase family  CDC2/CDKX subfamily,Cytoplasm. Cytoplasmic vesicle  secretory vesicle. Cell membrane; Peripheral membrane protein; Cytoplasmic side. Cell junction  synapse  synaptosome,12q23.1,Cyclin-dependent kinase 17  
+CDK18_HUMAN,Q07002,CDK18,Protein kinase superfamily  CMGC Ser/Thr protein kinase family  CDC2/CDKX subfamily,Cytoplasm. Cytoplasmic vesicle  secretory vesicle. Cell membrane; Peripheral membrane protein; Cytoplasmic side. Cell junction  synapse  synaptosome,1q32.1,Cyclin-dependent kinase 18  
+CDK19_HUMAN,Q9BWU1,CDK19,Protein kinase superfamily  CMGC Ser/Thr protein kinase family  CDC2/CDKX subfamily,Cytoplasm. Cytoplasmic vesicle  secretory vesicle. Cell membrane; Peripheral membrane protein; Cytoplasmic side. Cell junction  synapse  synaptosome,6q21,Cyclin-dependent kinase 19  
+CDK2_HUMAN,P24941,CDK2,Protein kinase superfamily  CMGC Ser/Thr protein kinase family  CDC2/CDKX subfamily,Cytoplasm. Cytoplasmic vesicle  secretory vesicle. Cell membrane; Peripheral membrane protein; Cytoplasmic side. Cell junction  synapse  synaptosome,12q13.2,Cyclin-dependent kinase 2  
+CDK20_HUMAN,Q8IZL9,CDK20,Protein kinase superfamily  CMGC Ser/Thr protein kinase family  CDC2/CDKX subfamily,Nucleus Cytoplasm Cell projection  cilium,9q22.1,Cyclin-dependent kinase 20  
+CDK3_HUMAN,Q00526,CDK3,Protein kinase superfamily  CMGC Ser/Thr protein kinase family  CDC2/CDKX subfamily,Nucleus Cytoplasm Cell projection  cilium,17q25.1,Cyclin-dependent kinase 3  
+CDK4_HUMAN,P11802,CDK4,Protein kinase superfamily  CMGC Ser/Thr protein kinase family  CDC2/CDKX subfamily,Nucleus Cytoplasm Cell projection  cilium,12q14.1,Cyclin-dependent kinase 4  
+CDK5_HUMAN,Q00535,CDK5,Protein kinase superfamily  CMGC Ser/Thr protein kinase family  CDC2/CDKX subfamily,Isoform 1: Cytoplasm. Cell membrane; Peripheral membrane protein. Perikaryon. Cell projection  lamellipodium Cell projection  growth cone Cell junction  synapse  postsynaptic cell membrane  postsynaptic density,7q36.1,Cyclin-dependent-like kinase 5  
+CDK6_HUMAN,Q00534,CDK6,Protein kinase superfamily  CMGC Ser/Thr protein kinase family  CDC2/CDKX subfamily,Cytoplasm. Nucleus. Cell projection  ruffle. Cytoplasm  cytoskeleton  microtubule organizing center  centrosome,7q21.2,Cyclin-dependent kinase 6  
+CDK7_HUMAN,P50613,CDK7,Protein kinase superfamily  CMGC Ser/Thr protein kinase family  CDC2/CDKX subfamily,Cytoplasm. Nucleus. Cell projection  ruffle. Cytoplasm  cytoskeleton  microtubule organizing center  centrosome,5q13.2,Cyclin-dependent kinase 7   
+CDK8_HUMAN,P49336,CDK8,Protein kinase superfamily  CMGC Ser/Thr protein kinase family  CDC2/CDKX subfamily,Nucleus,13q12.13,Cyclin-dependent kinase 8   
+CDK9_HUMAN,P50750,CDK9,Protein kinase superfamily  CMGC Ser/Thr protein kinase family  CDC2/CDKX subfamily,Nucleus,9q34.11,Cyclin-dependent kinase 9   
+CDKA1_HUMAN,O14519,CDK2AP1,CDK2AP family,Nucleus. Cytoplasm. Mitochondrion. Cytoplasm  cytoskeleton  microtubule organizing center  centrosome Cytoplasm  cytoskeleton  spindle.,12q24.31,Cyclin-dependent kinase 2-associated protein 1 
+CDKL1_HUMAN,Q00532,CDKL1,Protein kinase superfamily  CMGC Ser/Thr protein kinase family  CDC2/CDKX subfamily,Cytoplasm Nucleus,14q21.3,Cyclin-dependent kinase-like 1  
+CDKL2_HUMAN,Q92772,CDKL2,Protein kinase superfamily  CMGC Ser/Thr protein kinase family  CDC2/CDKX subfamily,Cytoplasm Nucleus,4q21.1,Cyclin-dependent kinase-like 2  
+CDKL3_HUMAN,Q8IVW4,CDKL3,Protein kinase superfamily  CMGC Ser/Thr protein kinase family  CDC2/CDKX subfamily,Cytoplasm,5q31.1,Cyclin-dependent kinase-like 3  
+CDKL4_HUMAN,Q5MAI5,CDKL4,Protein kinase superfamily  CMGC Ser/Thr protein kinase family  CDC2/CDKX subfamily,Cytoplasm,,Cyclin-dependent kinase-like 4 
+CDKL5_HUMAN,O76039,CDKL5,Protein kinase superfamily  CMGC Ser/Thr protein kinase family  CDC2/CDKX subfamily,Nucleus Cytoplasm  cytoskeleton  cilium basal body Cytoplasm  cytoskeleton  microtubule organizing center  centrosome,Xp22.13,Cyclin-dependent kinase-like 5  
+CHK1_HUMAN,O14757,CHEK1,Protein kinase superfamily  CAMK Ser/Thr protein kinase family  NIM1 subfamily,Nucleus Cytoplasm Cell membrane Peripheral membrane protein,11q24.2,Serine/threonine-protein kinase Chk1  
+CHK2_HUMAN,O96017,CHEK2,Protein kinase superfamily  CAMK Ser/Thr protein kinase family  CHK2 subfamily,Nucleus Cytoplasm Cell membrane Peripheral membrane protein,22q12.1,Serine/threonine-protein kinase Chk2  
+CLK1_HUMAN,P49759,CLK1,Protein kinase superfamily  CMGC Ser/Thr protein kinase family  Lammer subfamily,Nucleus Cytoplasm  cytoskeleton  cilium basal body Cytoplasm  cytoskeleton  microtubule organizing center  centrosome,2q33.1,Dual specificity protein kinase CLK1  
+CLK2_HUMAN,P49760,CLK2,Protein kinase superfamily  CMGC Ser/Thr protein kinase family  Lammer subfamily,Nucleus Cytoplasm  cytoskeleton  cilium basal body Cytoplasm  cytoskeleton  microtubule organizing center  centrosome,1q22,Dual specificity protein kinase CLK2  
+CLK3_HUMAN,P49761,CLK3,Protein kinase superfamily  CMGC Ser/Thr protein kinase family  Lammer subfamily,Isoform 1: Nucleus. Cytoplasm Cytoplasmic vesicle  secretory vesicle  acrosome,15q24.1,Dual specificity protein kinase CLK3  
+CLK4_HUMAN,Q9HAZ1,CLK4,Protein kinase superfamily  CMGC Ser/Thr protein kinase family  Lammer subfamily,Nucleus,5q35.3,Dual specificity protein kinase CLK4  
+COQ8A_HUMAN,Q8NI60,COQ8A,Protein kinase superfamily  ADCK protein kinase family,Mitochondrion Membrane Single-pass membrane protein,1q42.13,Atypical kinase COQ8A  mitochondrial  
+COQ8B_HUMAN,Q96D53,COQ8B,Protein kinase superfamily  ADCK protein kinase family,Mitochondrion membrane Single-pass membrane protein Cytoplasm  cytosol Cell membrane,,Atypical kinase COQ8B  mitochondrial  
+CSF1R_HUMAN,P07333,CSF1R,Protein kinase superfamily  Tyr protein kinase family  CSF-1/PDGF receptor subfamily,Cytoplasm,5q32,Macrophage colony-stimulating factor 1 receptor 
+CSK_HUMAN,P41240,CSK,Protein kinase superfamily  Tyr protein kinase family  CSK subfamily,Cytoplasm Cell membrane,15q24.1,Tyrosine-protein kinase CSK  
+CSK21_HUMAN,P68400,CSNK2A1,Protein kinase superfamily  Ser/Thr protein kinase family  CK2 subfamily,Nucleus,20p13,Casein kinase II subunit alpha 
+CSK22_HUMAN,P19784,CSNK2A2,Protein kinase superfamily  Ser/Thr protein kinase family  CK2 subfamily,Nucleus,16q21,Casein kinase II subunit alpha' 
+CSK23_HUMAN,Q8NEV1,CSNK2A3,Protein kinase superfamily  Ser/Thr protein kinase family  CK2 subfamily,Nucleus,11p15.4,Casein kinase II subunit alpha 3 
+CSKP_HUMAN,O14936,CASK,Protein kinase superfamily  CAMK Ser/Thr protein kinase family  CaMK subfamily; MAGUK family,Nucleus Cytoplasm Cell membrane Peripheral membrane protein,Xp11.4,Peripheral plasma membrane protein CASK 
+CTRO_HUMAN,O14578,CIT,Protein kinase superfamily  AGC Ser/Thr protein kinase family,Cytoplasm,12q24.23,Citron Rho-interacting kinase 
+DAPK1_HUMAN,P53355,DAPK1,Protein kinase superfamily  CAMK Ser/Thr protein kinase family  DAP kinase subfamily,Nucleus Cytoplasm Cell membrane Peripheral membrane protein,9q21.33,Death-associated protein kinase 1 
+DAPK2_HUMAN,Q9UIK4,DAPK2,Protein kinase superfamily  CAMK Ser/Thr protein kinase family  DAP kinase subfamily,Nucleus Cytoplasm Cell membrane Peripheral membrane protein,15q22.31,Death-associated protein kinase 2 
+DAPK3_HUMAN,O43293,DAPK3,Protein kinase superfamily  CAMK Ser/Thr protein kinase family  DAP kinase subfamily,Nucleus Cytoplasm,19p13.3,Death-associated protein kinase 3 
+DCLK1_HUMAN,O15075,DCLK1,Protein kinase superfamily  CAMK Ser/Thr protein kinase family  CaMK subfamily,Nucleus Cytoplasm,13q13.3,Serine/threonine-protein kinase DCLK1  
+DCLK2_HUMAN,Q8N568,DCLK2,Protein kinase superfamily  CAMK Ser/Thr protein kinase family  CaMK subfamily,Nucleus Cytoplasm,4q31.23-q31.3,Serine/threonine-protein kinase DCLK2  
+DCLK3_HUMAN,Q9C098,DCLK3,Protein kinase superfamily  CAMK Ser/Thr protein kinase family  CaMK subfamily,Cytoplasm Nucleus,3p22.2,Serine/threonine-protein kinase DCLK3  
+DDR1_HUMAN,Q08345,DDR1,Protein kinase superfamily  Tyr protein kinase family  Insulin receptor subfamily,Cytoplasm Cell membrane,6p21.33,Epithelial discoidin domain-containing receptor 1 
+DDR2_HUMAN,Q16832,DDR2,Protein kinase superfamily  Tyr protein kinase family  Insulin receptor subfamily,Cell membrane Single-pass type I membrane protein,1q23.3,Discoidin domain-containing receptor 2 
+DMPK_HUMAN,Q09013,DMPK,Protein kinase superfamily  AGC Ser/Thr protein kinase family  DMPK subfamily,Endoplasmic reticulum membrane Single-pass type IV membrane protein Cytoplasmic side Nucleus outer membrane Single-pass type IV membrane protein Cytoplasmic side Mitochondrion outer membrane Single-pass type IV membrane protein Sarcoplasmic reticulum membrane Cell membrane Cytoplasm  cytosol,19q13.32,Myotonin-protein kinase 
+DUSTY_HUMAN,Q6XUX3,DSTYK,Protein kinase superfamily  Ser/Thr protein kinase family,Cytoplasm Cell membrane Apical cell membrane Basolateral cell membrane Cell junction,1q32.1,Dual serine/threonine and tyrosine protein kinase  
+DYR1A_HUMAN,Q13627,DYRK1A,Protein kinase superfamily  CMGC Ser/Thr protein kinase family  MNB/DYRK subfamily,Nucleus Nucleus speckle,21q22.13,Dual specificity tyrosine-phosphorylation-regulated kinase 1A  
+DYR1B_HUMAN,Q9Y463,DYRK1B,Protein kinase superfamily  CMGC Ser/Thr protein kinase family  MNB/DYRK subfamily,Nucleus Nucleus speckle,19q13.2,Dual specificity tyrosine-phosphorylation-regulated kinase 1B  
+DYRK2_HUMAN,Q92630,DYRK2,Protein kinase superfamily  CMGC Ser/Thr protein kinase family  MNB/DYRK subfamily,Nucleus Nucleus speckle,12q15,Dual specificity tyrosine-phosphorylation-regulated kinase 2 
+DYRK3_HUMAN,O43781,DYRK3,Protein kinase superfamily  CMGC Ser/Thr protein kinase family  MNB/DYRK subfamily,Nucleus Cytoplasm Nucleus speckle Cytoplasmic granule Cytoplasm  cytoskeleton  microtubule organizing center  centrosome,1q32.1,Dual specificity tyrosine-phosphorylation-regulated kinase 3  
+DYRK4_HUMAN,Q9NR20,DYRK4,Protein kinase superfamily  CMGC Ser/Thr protein kinase family  MNB/DYRK subfamily,Isoform 1: Cytoplasm,12p13.32,Dual specificity tyrosine-phosphorylation-regulated kinase 4 
+E2AK1_HUMAN,Q9BQI3,EIF2AK1,Protein kinase superfamily  Ser/Thr protein kinase family  GCN2 subfamily,Cytoplasm,7p22.1,Eukaryotic translation initiation factor 2-alpha kinase 1  
+E2AK2_HUMAN,P19525,EIF2AK2,Protein kinase superfamily  Ser/Thr protein kinase family  GCN2 subfamily,Cytoplasm,2p22.2,Interferon-induced  double-stranded RNA-activated protein kinase  
+E2AK3_HUMAN,Q9NZJ5,EIF2AK3,Protein kinase superfamily  Ser/Thr protein kinase family  GCN2 subfamily,Cytoplasm,2p11.2,Eukaryotic translation initiation factor 2-alpha kinase 3  
+E2AK4_HUMAN,Q9P2K8,EIF2AK4,Protein kinase superfamily  Ser/Thr protein kinase family  GCN2 subfamily,Cytoplasm,15q15.1,eIF-2-alpha kinase GCN2  
+EF2K_HUMAN,O00418,EEF2K,Protein kinase superfamily  Alpha-type protein kinase family,Nucleus,16p12.2,Eukaryotic elongation factor 2 kinase 
+EGFR_HUMAN,P00533,EGFR,Protein kinase superfamily  Tyr protein kinase family  EGF receptor subfamily,Cell membrane Single-pass type I membrane protein Endoplasmic reticulum membrane Single-pass type I membrane protein. Golgi apparatus membrane; Single-pass type I membrane protein. Nucleus membrane; Single-pass type I membrane protein. Endosome Endosome membrane. Nucleus,7p11.2,Epidermal growth factor receptor  
+EPHA1_HUMAN,P21709,EPHA1,Protein kinase superfamily  Tyr protein kinase family  Ephrin receptor subfamily,Cell membrane Single-pass type I membrane protein,7q34-q35,Ephrin type-A receptor 1 
+EPHA2_HUMAN,P29317,EPHA2,Protein kinase superfamily  Tyr protein kinase family  Ephrin receptor subfamily,Cell membrane Single-pass type I membrane protein Cell projection  ruffle membrane Single-pass type I membrane protein Cell projection  lamellipodium membrane Single-pass type I membrane protein Cell junction  focal adhesion,1p36.13,Ephrin type-A receptor 2  
+EPHA3_HUMAN,P29320,EPHA3,Protein kinase superfamily  Tyr protein kinase family  Ephrin receptor subfamily,Isoform 1: Cell membrane Single-pass type I membrane protein,3p11.1,Ephrin type-A receptor 3  
+EPHA4_HUMAN,P54764,EPHA4,Protein kinase superfamily  Tyr protein kinase family  Ephrin receptor subfamily,Cell membrane Single-pass type I membrane protein Cell projection  axon Cell projection  dendrite Cell junction  synapse  postsynaptic cell membrane  postsynaptic density Early endosome,2q36.1,Ephrin type-A receptor 4  
+EPHA5_HUMAN,P54756,EPHA5,Protein kinase superfamily  Tyr protein kinase family  Ephrin receptor subfamily,Cell membrane Single-pass type I membrane protein Cell projection  axon Cell projection  dendrite,4q13.1-q13.2,Ephrin type-A receptor 5  
+EPHA6_HUMAN,Q9UF33,EPHA6,Protein kinase superfamily  Tyr protein kinase family  Ephrin receptor subfamily,Membrane Single-pass type I membrane protein,3q11.2,Ephrin type-A receptor 6  
+EPHA7_HUMAN,Q15375,EPHA7,Protein kinase superfamily  Tyr protein kinase family  Ephrin receptor subfamily,Cell membrane Single-pass type I membrane protein,6q16.1,Ephrin type-A receptor 7  
+EPHA8_HUMAN,P29322,EPHA8,Protein kinase superfamily  Tyr protein kinase family  Ephrin receptor subfamily,Cell membrane Single-pass type I membrane protein Cell projection Early endosome membrane,1p36.12,Ephrin type-A receptor 8  
+EPHAA_HUMAN,Q5JZY3,EPHA10,Protein kinase superfamily  Tyr protein kinase family  Ephrin receptor subfamily,Isoform 1: Cell membrane Single-pass type I membrane protein,1p34.3,Ephrin type-A receptor 10 
+EPHB1_HUMAN,P54762,EPHB1,Protein kinase superfamily  Tyr protein kinase family  Ephrin receptor subfamily,Cell membrane Single-pass type I membrane protein Early endosome membrane Cell projection  dendrite,3q22.2,Ephrin type-B receptor 1  
+EPHB2_HUMAN,P29323,EPHB2,Protein kinase superfamily  Tyr protein kinase family  Ephrin receptor subfamily,Cell membrane; Single-pass type I membrane protein. Cell projection  axon Cell projection  dendrite,1p36.12,Ephrin type-B receptor 2  
+EPHB3_HUMAN,P54753,EPHB3,Protein kinase superfamily  Tyr protein kinase family  Ephrin receptor subfamily,Cell membrane Single-pass type I membrane protein Cell projection  dendrite,3q27.1,Ephrin type-B receptor 3  
+EPHB4_HUMAN,P54760,EPHB4,Protein kinase superfamily  Tyr protein kinase family  Ephrin receptor subfamily,Cell membrane Single-pass type I membrane protein,7q22.1,Ephrin type-B receptor 4  
+EPHB6_HUMAN,O15197,EPHB6,Protein kinase superfamily  Tyr protein kinase family  Ephrin receptor subfamily,Cell membrane Single-pass type I membrane protein,7q34,Ephrin type-B receptor 6 
+ERBB2_HUMAN,P04626,ERBB2,Protein kinase superfamily  Tyr protein kinase family  EGF receptor subfamily,Cell membrane Single-pass type I membrane protein,17q12,Receptor tyrosine-protein kinase erbB-2  
+ERBB3_HUMAN,P21860,ERBB3,Protein kinase superfamily  Tyr protein kinase family  EGF receptor subfamily,Cell membrane Single-pass type I membrane protein,12q13.2,Receptor tyrosine-protein kinase erbB-3  
+ERBB4_HUMAN,Q15303,ERBB4,Protein kinase superfamily  Tyr protein kinase family  EGF receptor subfamily,Cell membrane Single-pass type I membrane protein,2q34,Receptor tyrosine-protein kinase erbB-4  
+ERN1_HUMAN,O75460,ERN1,Protein kinase superfamily  Ser/Thr protein kinase family,Endoplasmic reticulum membrane Single-pass type I membrane protein,17q23.3,Serine/threonine-protein kinase/endoribonuclease IRE1 
+ERN2_HUMAN,Q76MJ5,ERN2,Protein kinase superfamily  Ser/Thr protein kinase family,Endoplasmic reticulum membrane Single-pass type I membrane protein,16p12.2,Serine/threonine-protein kinase/endoribonuclease IRE2 
+FAK1_HUMAN,Q05397,PTK2,Protein kinase superfamily  Tyr protein kinase family  FAK subfamily,Cell junction  focal adhesion. Cell membrane; Peripheral membrane protein; Cytoplasmic side. Cytoplasm  cell cortex. Cytoplasm  cytoskeleton. Cytoplasm  cytoskeleton  microtubule organizing center  centrosome Nucleus.,8q24.3,Focal adhesion kinase 1 
+FAK2_HUMAN,Q14289,PTK2B,Protein kinase superfamily  Tyr protein kinase family  FAK subfamily,Cell junction  focal adhesion. Cell membrane; Peripheral membrane protein; Cytoplasmic side. Cytoplasm  cell cortex. Cytoplasm  cytoskeleton. Cytoplasm  cytoskeleton  microtubule organizing center  centrosome Nucleus.,8p21.2,Protein-tyrosine kinase 2-beta  
+FASTK_HUMAN,Q14296,FASTK,FAST protein kinase family,Isoform 4: Mitochondrion matrix,7q36.1,Fas-activated serine/threonine kinase 
+FER_HUMAN,P16591,FER,Protein kinase superfamily  Tyr protein kinase family  Fes/fps subfamily,Cell membrane Single-pass type I membrane protein,5q21.3,Tyrosine-protein kinase Fer  
+FES_HUMAN,P07332,FES,Protein kinase superfamily  Tyr protein kinase family  Fes/fps subfamily,Cell membrane Single-pass type I membrane protein,15q26.1,Tyrosine-protein kinase Fes/Fps  
+FGFR1_HUMAN,P11362,FGFR1,Protein kinase superfamily  Tyr protein kinase family  Fibroblast growth factor receptor subfamily,Cell membrane Single-pass type I membrane protein,8p11.23,Fibroblast growth factor receptor 1 
+FGFR2_HUMAN,P21802,FGFR2,Protein kinase superfamily  Tyr protein kinase family  Fibroblast growth factor receptor subfamily,Cell membrane Single-pass type I membrane protein,10q26.13,Fibroblast growth factor receptor 2 
+FGFR3_HUMAN,P22607,FGFR3,Protein kinase superfamily  Tyr protein kinase family  Fibroblast growth factor receptor subfamily,Cell membrane Single-pass type I membrane protein,4p16.3,Fibroblast growth factor receptor 3 
+FGFR4_HUMAN,P22455,FGFR4,Protein kinase superfamily  Tyr protein kinase family  Fibroblast growth factor receptor subfamily,Cell membrane Single-pass type I membrane protein,5q35.2,Fibroblast growth factor receptor 4 
+FGR_HUMAN,P09769,FGR,Protein kinase superfamily  Tyr protein kinase family  SRC subfamily,Cell membrane Lipid-anchor Cytoplasmic side Cell membrane; Peripheral membrane protein; Cytoplasmic side. Cell projection  ruffle membrane. Cytoplasm  cytosol. Cytoplasm  cytoskeleton. Mitochondrion inner membrane Mitochondrion intermembrane space,1p35.3,Tyrosine-protein kinase Fgr  
+FLT3_HUMAN,P36888,FLT3,Protein kinase superfamily  Tyr protein kinase family  CSF-1/PDGF receptor subfamily,Cell membrane Lipid-anchor Cytoplasmic side Cell membrane; Peripheral membrane protein; Cytoplasmic side. Cell projection  ruffle membrane. Cytoplasm  cytosol. Cytoplasm  cytoskeleton. Mitochondrion inner membrane Mitochondrion intermembrane space,13q12.2,Receptor-type tyrosine-protein kinase FLT3  
+FRK_HUMAN,P42685,FRK,Protein kinase superfamily  Tyr protein kinase family  SRC subfamily,Cytoplasm Nucleus,6q22.1,Tyrosine-protein kinase FRK  
+FYN_HUMAN,P06241,FYN,Protein kinase superfamily  Tyr protein kinase family  SRC subfamily,Cytoplasm Nucleus,6q21,Tyrosine-protein kinase Fyn  
+GAK_HUMAN,O14976,GAK,Protein kinase superfamily  Ser/Thr protein kinase family,Cytoplasm  perinuclear region Golgi apparatus  trans-Golgi network Cell junction  focal adhesion,4p16.3,Cyclin-G-associated kinase 
+GP_NYV,Q83887,GP,Hantavirus envelope glycoprotein family,Glycoprotein N: Virion membrane Single-pass type I membrane protein Host Golgi apparatus membrane Single-pass type I membrane protein Host endoplasmic reticulum membrane Single-pass type I membrane protein,,Envelopment polyprotein 
+GRK4_HUMAN,P32298,GRK4,Protein kinase superfamily  AGC Ser/Thr protein kinase family  GPRK subfamily,Cytoplasm Cell membrane,4p16.3,G protein-coupled receptor kinase 4  
+GRK5_HUMAN,P34947,GRK5,Protein kinase superfamily  AGC Ser/Thr protein kinase family  GPRK subfamily,Cytoplasm Cell membrane,10q26.11,G protein-coupled receptor kinase 5  
+GRK6_HUMAN,P43250,GRK6,Protein kinase superfamily  AGC Ser/Thr protein kinase family  GPRK subfamily,Cytoplasm Cell membrane,5q35.3,G protein-coupled receptor kinase 6  
+GRK7_HUMAN,Q8WTQ7,GRK7,Protein kinase superfamily  AGC Ser/Thr protein kinase family  GPRK subfamily,Membrane Lipid-anchor,3q23,Rhodopsin kinase  
+GSK3A_HUMAN,P49840,GSK3A,Protein kinase superfamily  CMGC Ser/Thr protein kinase family  GSK-3 subfamily,Isoform 1: Cytoplasm,19q13.2,Glycogen synthase kinase-3 alpha 
+GSK3B_HUMAN,P49841,GSK3B,Protein kinase superfamily  CMGC Ser/Thr protein kinase family  GSK-3 subfamily,Cytoplasm Nucleus. Cell membrane.,3q13.33,Glycogen synthase kinase-3 beta 
+GUC2C_HUMAN,P25092,GUCY2C,Adenylyl cyclase class-4/guanylyl cyclase family,Cell membrane Single-pass type I membrane protein Endoplasmic reticulum membrane Single-pass type I membrane protein,12p12.3,Heat-stable enterotoxin receptor 
+GUC2D_HUMAN,Q02846,GUCY2D,Adenylyl cyclase class-4/guanylyl cyclase family,Cell membrane Single-pass type I membrane protein Endoplasmic reticulum membrane Single-pass type I membrane protein,17p13.1,Retinal guanylyl cyclase 1 
+GUC2F_HUMAN,P51841,GUCY2F,Adenylyl cyclase class-4/guanylyl cyclase family,Cell membrane Single-pass type I membrane protein Endoplasmic reticulum membrane Single-pass type I membrane protein,Xq22.3-q23,Retinal guanylyl cyclase 2 
+GWL_HUMAN,Q96GX5,MASTL,Protein kinase superfamily  AGC Ser/Thr protein kinase family,Cytoplasm  cytoskeleton  microtubule organizing center  centrosome Nucleus Cleavage furrow,10p12.1,Serine/threonine-protein kinase greatwall 
+HASP_HUMAN,Q8TF76,HASPIN,Protein kinase superfamily  Ser/Thr protein kinase family  Haspin subfamily,Nucleus Chromosome Cytoplasm  cytoskeleton  spindle,17p13.2,Serine/threonine-protein kinase haspin  
+HCK_HUMAN,P08631,HCK,Protein kinase superfamily  Tyr protein kinase family  SRC subfamily,Cytoplasm Nucleus,20q11.21,Tyrosine-protein kinase HCK  
+HIPK1_HUMAN,Q86Z02,HIPK1,Protein kinase superfamily  CMGC Ser/Thr protein kinase family  HIPK subfamily,Cytoplasm Nucleus. Cell membrane.,1p13.2,Homeodomain-interacting protein kinase 1  
+HIPK2_HUMAN,Q9H2X6,HIPK2,Protein kinase superfamily  CMGC Ser/Thr protein kinase family  HIPK subfamily,Nucleus  PML body Cytoplasm.,7q34,Homeodomain-interacting protein kinase 2 
+HIPK3_HUMAN,Q9H422,HIPK3,Protein kinase superfamily  CMGC Ser/Thr protein kinase family  HIPK subfamily,Cytoplasm Nucleus,11p13,Homeodomain-interacting protein kinase 3  
+HIPK4_HUMAN,Q8NE63,HIPK4,Protein kinase superfamily  CMGC Ser/Thr protein kinase family  HIPK subfamily,Cytoplasm,19q13.2,Homeodomain-interacting protein kinase 4 
+HUNK_HUMAN,P57058,HUNK,Protein kinase superfamily  CAMK Ser/Thr protein kinase family  SNF1 subfamily,Cytoplasm Nucleus,21q22.11,Hormonally up-regulated neu tumor-associated kinase  
+ICK_HUMAN,Q9UPZ9,ICK,Protein kinase superfamily  CMGC Ser/Thr protein kinase family  CDC2/CDKX subfamily,Nucleus Cytoplasm  cytosol Cell projection  cilium Cytoplasm  cytoskeleton  cilium basal body,6p12.1,Serine/threonine-protein kinase ICK  
+IGF1R_HUMAN,P08069,IGF1R,Protein kinase superfamily  Tyr protein kinase family  Insulin receptor subfamily,Cell membrane Single-pass type I membrane protein,15q26.3,Insulin-like growth factor 1 receptor  
+IKKA_HUMAN,O15111,CHUK,Protein kinase superfamily  Ser/Thr protein kinase family  I-kappa-B kinase subfamily,Cytoplasm Nucleus,10q24.31,Inhibitor of nuclear factor kappa-B kinase subunit alpha 
+IKKB_HUMAN,O14920,IKBKB,Protein kinase superfamily  Ser/Thr protein kinase family  I-kappa-B kinase subfamily,Cytoplasm Nucleus Membrane raft,8p11.21,Inhibitor of nuclear factor kappa-B kinase subunit beta 
+IKKE_HUMAN,Q14164,IKBKE,Protein kinase superfamily  Ser/Thr protein kinase family  I-kappa-B kinase subfamily,Cytoplasm Nucleus. Nucleus  PML body,1q32.1,Inhibitor of nuclear factor kappa-B kinase subunit epsilon 
+ILK_HUMAN,Q13418,ILK,Protein kinase superfamily  TKL Ser/Thr protein kinase family,Cell junction  focal adhesion Cell membrane; Peripheral membrane protein; Cytoplasmic side Cell projection  lamellipodium Cytoplasm  myofibril  sarcomere,11p15.4,Integrin-linked protein kinase  
+INSR_HUMAN,P06213,INSR,Protein kinase superfamily  Tyr protein kinase family  Insulin receptor subfamily,Cell membrane Single-pass type I membrane protein,19p13.2,Insulin receptor 
+INSRR_HUMAN,P14616,INSRR,Protein kinase superfamily  Tyr protein kinase family  Insulin receptor subfamily,Cell membrane Single-pass type I membrane protein,1q23.1,Insulin receptor-related protein 
+IRAK1_HUMAN,P51617,IRAK1,Protein kinase superfamily  TKL Ser/Thr protein kinase family  Pelle subfamily,Cytoplasm Nucleus Lipid droplet,Xq28,Interleukin-1 receptor-associated kinase 1 
+IRAK2_HUMAN,O43187,IRAK2,Protein kinase superfamily  TKL Ser/Thr protein kinase family  Pelle subfamily,Cytoplasm Nucleus Lipid droplet,3p25.3,Interleukin-1 receptor-associated kinase-like 2 
+IRAK3_HUMAN,Q9Y616,IRAK3,Protein kinase superfamily  TKL Ser/Thr protein kinase family  Pelle subfamily,Cytoplasm Nucleus Lipid droplet,12q14.3,Interleukin-1 receptor-associated kinase 3 
+IRAK4_HUMAN,Q9NWZ3,IRAK4,Protein kinase superfamily  TKL Ser/Thr protein kinase family  Pelle subfamily,Cytoplasm,12q12,Interleukin-1 receptor-associated kinase 4 
+ITK_HUMAN,Q08881,ITK,Protein kinase superfamily  Tyr protein kinase family  TEC subfamily,Cytoplasm Nucleus,5q33.3,Tyrosine-protein kinase ITK/TSK  
+JAK1_HUMAN,P23458,JAK1,Protein kinase superfamily  Tyr protein kinase family  JAK subfamily,Cytoplasm Nucleus,1p31.3,Tyrosine-protein kinase JAK1  
+JAK2_HUMAN,O60674,JAK2,Protein kinase superfamily  Tyr protein kinase family  JAK subfamily,Endomembrane system Peripheral membrane protein Cytoplasm Nucleus,9p24.1,Tyrosine-protein kinase JAK2  
+JAK3_HUMAN,P52333,JAK3,Protein kinase superfamily  Tyr protein kinase family  JAK subfamily,Endomembrane system Peripheral membrane protein Cytoplasm,19p13.11,Tyrosine-protein kinase JAK3  
+KALRN_HUMAN,O60229,KALRN,Protein kinase superfamily  CAMK Ser/Thr protein kinase family,Cytoplasm Cytoplasm  cytoskeleton,3q21.1-q21.2,Kalirin  
+KAPCA_HUMAN,P17612,PRKACA,Protein kinase superfamily  AGC Ser/Thr protein kinase family  cAMP subfamily,Cytoplasm. Cell membrane. Nucleus Mitochondrion Membrane Lipid-anchor,19p13.12,cAMP-dependent protein kinase catalytic subunit alpha 
+KAPCB_HUMAN,P22694,PRKACB,Protein kinase superfamily  AGC Ser/Thr protein kinase family  cAMP subfamily,Cytoplasm Cell membrane Membrane Lipid-anchor Nucleus,1p31.1,cAMP-dependent protein kinase catalytic subunit beta 
+KAPCG_HUMAN,P22612,PRKACG,Protein kinase superfamily  AGC Ser/Thr protein kinase family  cAMP subfamily,Cytoplasm Cell membrane Membrane Lipid-anchor Nucleus,9q21.11,cAMP-dependent protein kinase catalytic subunit gamma 
+KC1A_HUMAN,P48729,CSNK1A1,Protein kinase superfamily  CK1 Ser/Thr protein kinase family  Casein kinase I subfamily,Cytoplasm Cytoplasm  cytoskeleton  microtubule organizing center  centrosome Chromosome  centromere  kinetochore Nucleus speckle Cytoplasm  cytoskeleton  cilium basal body,5q32,Casein kinase I isoform alpha 
+KC1AL_HUMAN,Q8N752,CSNK1A1L,Protein kinase superfamily  CK1 Ser/Thr protein kinase family  Casein kinase I subfamily,Cytoplasm,13q13.3,Casein kinase I isoform alpha-like 
+KC1D_HUMAN,P48730,CSNK1D,Protein kinase superfamily  CK1 Ser/Thr protein kinase family  Casein kinase I subfamily,Cytoplasm. Nucleus. Cytoplasm  cytoskeleton  microtubule organizing center  centrosome Cytoplasm  perinuclear region. Cell membrane. Cytoplasm  cytoskeleton  spindle. Golgi apparatus.,17q25.3,Casein kinase I isoform delta 
+KC1E_HUMAN,P49674,CSNK1E,Protein kinase superfamily  CK1 Ser/Thr protein kinase family  Casein kinase I subfamily,Cytoplasm Nucleus,22q13.1,Casein kinase I isoform epsilon 
+KC1G1_HUMAN,Q9HCP0,CSNK1G1,Protein kinase superfamily  CK1 Ser/Thr protein kinase family  Casein kinase I subfamily,Cytoplasm Nucleus,15q22.31,Casein kinase I isoform gamma-1 
+KC1G2_HUMAN,P78368,CSNK1G2,Protein kinase superfamily  CK1 Ser/Thr protein kinase family  Casein kinase I subfamily,Cytoplasm,19p13.3,Casein kinase I isoform gamma-2 
+KC1G3_HUMAN,Q9Y6M4,CSNK1G3,Protein kinase superfamily  CK1 Ser/Thr protein kinase family  Casein kinase I subfamily,Cytoplasm,5q23.2,Casein kinase I isoform gamma-3 
+KCC1A_HUMAN,Q14012,CAMK1,Protein kinase superfamily  CAMK Ser/Thr protein kinase family  CaMK subfamily,Cytoplasm Nucleus,3p25.3,Calcium/calmodulin-dependent protein kinase type 1  
+KCC1B_HUMAN,Q6P2M8,PNCK,Protein kinase superfamily  CAMK Ser/Thr protein kinase family  CaMK subfamily,Cytoplasm Nucleus,Xq28,Calcium/calmodulin-dependent protein kinase type 1B  
+KCC1D_HUMAN,Q8IU85,CAMK1D,Protein kinase superfamily  CAMK Ser/Thr protein kinase family  CaMK subfamily,Cytoplasm Nucleus,10p13,Calcium/calmodulin-dependent protein kinase type 1D  
+KCC1G_HUMAN,Q96NX5,CAMK1G,Protein kinase superfamily  CAMK Ser/Thr protein kinase family  CaMK subfamily,Cytoplasm Golgi apparatus membrane Peripheral membrane protein Cell membrane Peripheral membrane protein,1q32.2,Calcium/calmodulin-dependent protein kinase type 1G  
+KCC2A_HUMAN,Q9UQM7,CAMK2A,Protein kinase superfamily  CAMK Ser/Thr protein kinase family  CaMK subfamily,Cell junction  synapse Cell junction  synapse  postsynaptic cell membrane  postsynaptic density Cell projection  dendritic spine Cell projection  dendrite,5q32,Calcium/calmodulin-dependent protein kinase type II subunit alpha 
+KCC2B_HUMAN,Q13554,CAMK2B,Protein kinase superfamily  CAMK Ser/Thr protein kinase family  CaMK subfamily,Cytoplasm  cytoskeleton Cytoplasm  cytoskeleton  microtubule organizing center  centrosome Sarcoplasmic reticulum membrane Peripheral membrane protein Cytoplasmic side Cell junction  synapse,7p13,Calcium/calmodulin-dependent protein kinase type II subunit beta 
+KCC2D_HUMAN,Q13557,CAMK2D,Protein kinase superfamily  CAMK Ser/Thr protein kinase family  CaMK subfamily,Cell membrane  sarcolemma Peripheral membrane protein Cytoplasmic side Sarcoplasmic reticulum membrane Peripheral membrane protein Cytoplasmic side,4q26,Calcium/calmodulin-dependent protein kinase type II subunit delta 
+KCC2G_HUMAN,Q13555,CAMK2G,Protein kinase superfamily  CAMK Ser/Thr protein kinase family  CaMK subfamily,Sarcoplasmic reticulum membrane Peripheral membrane protein Cytoplasmic side,10q22.2,Calcium/calmodulin-dependent protein kinase type II subunit gamma 
+KCC4_HUMAN,Q16566,CAMK4,Protein kinase superfamily  CAMK Ser/Thr protein kinase family  CaMK subfamily,Sarcoplasmic reticulum membrane Peripheral membrane protein Cytoplasmic side,5q22.1,Calcium/calmodulin-dependent protein kinase type IV 
+KGP1_HUMAN,Q13976,PRKG1,Protein kinase superfamily  AGC Ser/Thr protein kinase family  cGMP subfamily,Cytoplasm,10q11.23-q21.1,cGMP-dependent protein kinase 1 
+KGP2_HUMAN,Q13237,PRKG2,Protein kinase superfamily  AGC Ser/Thr protein kinase family  cGMP subfamily,Apical cell membrane Lipid-anchor,4q21.21,cGMP-dependent protein kinase 2 
+KIT_HUMAN,P10721,KIT,Protein kinase superfamily  Tyr protein kinase family  CSF-1/PDGF receptor subfamily,Cell junction Endoplasmic reticulum,4q12,Mast/stem cell growth factor receptor Kit 
+KKCC1_HUMAN,Q8N5S9,CAMKK1,Protein kinase superfamily  Ser/Thr protein kinase family,Cytoplasm Nucleus,17p13.2,Calcium/calmodulin-dependent protein kinase kinase 1 
+KKCC2_HUMAN,Q96RR4,CAMKK2,Protein kinase superfamily  Ser/Thr protein kinase family,Nucleus Cytoplasm Cell projection,12q24.31,Calcium/calmodulin-dependent protein kinase kinase 2 
+KPCA_HUMAN,P17252,PRKCA,Protein kinase superfamily  AGC Ser/Thr protein kinase family  PKC subfamily,Cytoplasm Cell membrane Peripheral membrane protein Mitochondrion membrane Peripheral membrane protein Nucleus,17q24.2,Protein kinase C alpha type 
+KPCB_HUMAN,P05771,PRKCB,Protein kinase superfamily  AGC Ser/Thr protein kinase family  PKC subfamily,Cytoplasm Nucleus Membrane Peripheral membrane protein,16p12.2-p12.1,Protein kinase C beta type 
+KPCD_HUMAN,Q05655,PRKCD,Protein kinase superfamily  AGC Ser/Thr protein kinase family  PKC subfamily,Cytoplasm Cytoplasm  perinuclear region Nucleus Cell membrane Peripheral membrane protein,3p21.1,Protein kinase C delta type  
+KPCD1_HUMAN,Q15139,PRKD1,Protein kinase superfamily  CAMK Ser/Thr protein kinase family  PKD subfamily,Cytoplasm Cell membrane Golgi apparatus  trans-Golgi network,14q12,Serine/threonine-protein kinase D1  
+KPCD2_HUMAN,Q9BZL6,PRKD2,Protein kinase superfamily  CAMK Ser/Thr protein kinase family  PKD subfamily,Cytoplasm Cell membrane Nucleus Golgi apparatus  trans-Golgi network,19q13.32,Serine/threonine-protein kinase D2  
+KPCD3_HUMAN,O94806,PRKD3,Protein kinase superfamily  CAMK Ser/Thr protein kinase family  PKD subfamily,Cytoplasm Membrane,2p22.2,Serine/threonine-protein kinase D3  
+KPCE_HUMAN,Q02156,PRKCE,Protein kinase superfamily  AGC Ser/Thr protein kinase family  PKC subfamily,Cytoplasm Cytoplasm  cytoskeleton Cell membrane Cytoplasm  perinuclear region Nucleus,2p21,Protein kinase C epsilon type  
+KPCG_HUMAN,P05129,PRKCG,Protein kinase superfamily  AGC Ser/Thr protein kinase family  PKC subfamily,Cytoplasm Cytoplasm  perinuclear region Cell membrane Peripheral membrane protein Cell junction  synapse  synaptosome Cell projection  dendrite,19q13.42,Protein kinase C gamma type 
+KPCI_HUMAN,P41743,PRKCI,Protein kinase superfamily  AGC Ser/Thr protein kinase family  PKC subfamily,Cytoplasm Membrane Endosome Nucleus,3q26.2,Protein kinase C iota type  
+KPCL_HUMAN,P24723,PRKCH,Protein kinase superfamily  AGC Ser/Thr protein kinase family  PKC subfamily,Cytoplasm,14q23.1,Protein kinase C eta type  
+KPCT_HUMAN,Q04759,PRKCQ,Protein kinase superfamily  AGC Ser/Thr protein kinase family  PKC subfamily,Cytoplasm Membrane Endosome Nucleus,10p15.1,Protein kinase C theta type  
+KPCZ_HUMAN,Q05513,PRKCZ,Protein kinase superfamily  AGC Ser/Thr protein kinase family  PKC subfamily,Cytoplasm Endosome Cell junction Membrane Peripheral membrane protein,1p36.33,Protein kinase C zeta type  
+KPSH1_HUMAN,P11801,PSKH1,Protein kinase superfamily  CAMK Ser/Thr protein kinase family,Cytoplasm Membrane,16q22.1,Serine/threonine-protein kinase H1  
+KPSH2_HUMAN,Q96QS6,PSKH2,Protein kinase superfamily  CAMK Ser/Thr protein kinase family,Cytoplasm Membrane,8q21.3,Serine/threonine-protein kinase H2  
+KS6A1_HUMAN,Q15418,RPS6KA1,Protein kinase superfamily  AGC Ser/Thr protein kinase family  S6 kinase subfamily,Cytoplasm. Cell membrane Peripheral membrane protein Nucleus. Cytoplasm  cytoskeleton  microtubule organizing center  centrosome.,1p36.11,Ribosomal protein S6 kinase alpha-1 
+KS6A2_HUMAN,Q15349,RPS6KA2,Protein kinase superfamily  AGC Ser/Thr protein kinase family  S6 kinase subfamily,Nucleus Cytoplasm,6q27,Ribosomal protein S6 kinase alpha-2 
+KS6A3_HUMAN,P51812,RPS6KA3,Protein kinase superfamily  AGC Ser/Thr protein kinase family  S6 kinase subfamily,Nucleus Cytoplasm,Xp22.12,Ribosomal protein S6 kinase alpha-3 
+KS6A4_HUMAN,O75676,RPS6KA4,Protein kinase superfamily  AGC Ser/Thr protein kinase family  S6 kinase subfamily,Nucleus,11q13.1,Ribosomal protein S6 kinase alpha-4 
+KS6A5_HUMAN,O75582,RPS6KA5,Protein kinase superfamily  AGC Ser/Thr protein kinase family  S6 kinase subfamily,Nucleus,14q32.11,Ribosomal protein S6 kinase alpha-5 
+KS6A6_HUMAN,Q9UK32,RPS6KA6,Protein kinase superfamily  AGC Ser/Thr protein kinase family  S6 kinase subfamily,Cytoplasm  cytosol Nucleus,Xq21.1,Ribosomal protein S6 kinase alpha-6 
+KS6B1_HUMAN,P23443,RPS6KB1,Protein kinase superfamily  AGC Ser/Thr protein kinase family  S6 kinase subfamily,Cell junction  synapse  synaptosome Mitochondrion outer membrane. Mitochondrion.,17q23.1,Ribosomal protein S6 kinase beta-1 
+KS6B2_HUMAN,Q9UBS0,RPS6KB2,Protein kinase superfamily  AGC Ser/Thr protein kinase family  S6 kinase subfamily,Cell junction  synapse  synaptosome Mitochondrion outer membrane. Mitochondrion.,11q13.2,Ribosomal protein S6 kinase beta-2 
+KS6C1_HUMAN,Q96S38,RPS6KC1,Protein kinase superfamily  Ser/Thr protein kinase family  S6 kinase subfamily,Cytoplasm Membrane Early endosome,1q32.3,Ribosomal protein S6 kinase delta-1 
+KS6R_HUMAN,Q96LW2,RSKR,Protein kinase superfamily  Ser/Thr protein kinase family,Cytoplasm Golgi apparatus Cell projection  lamellipodium,17q11.2,Ribosomal protein S6 kinase-related protein  
+KSR1_HUMAN,Q8IVT5,KSR1,Protein kinase superfamily  TKL Ser/Thr protein kinase family,Cytoplasm Membrane Peripheral membrane protein Cell membrane Peripheral membrane protein Cell projection  ruffle membrane Endoplasmic reticulum membrane,17q11.2,Kinase suppressor of Ras 1
+KSR2_HUMAN,Q6VAB6,KSR2,Protein kinase superfamily  TKL Ser/Thr protein kinase family,Cytoplasm Membrane Peripheral membrane protein,12q24.22-q24.23,Kinase suppressor of Ras 2 
+KSYK_HUMAN,P43405,SYK,Protein kinase superfamily  Tyr protein kinase family  SYK/ZAP-70 subfamily,Cell membrane Cytoplasm  cytosol,9q22.2,Tyrosine-protein kinase SYK  
+LATS1_HUMAN,O95835,LATS1,Protein kinase superfamily  AGC Ser/Thr protein kinase family,Cytoplasm  cytoskeleton  microtubule organizing center  centrosome,6q25.1,Serine/threonine-protein kinase LATS1  
+LATS2_HUMAN,Q9NRM7,LATS2,Protein kinase superfamily  AGC Ser/Thr protein kinase family,Cytoplasm  cytoskeleton  microtubule organizing center  centrosome,13q12.11,Serine/threonine-protein kinase LATS2  
+LCK_HUMAN,P06239,LCK,Protein kinase superfamily  Tyr protein kinase family  SRC subfamily,Cytoplasm Cell membrane Lipid-anchor Cytoplasmic side,1p35.2,Tyrosine-protein kinase Lck  
+LIMK1_HUMAN,P53667,LIMK1,Protein kinase superfamily  TKL Ser/Thr protein kinase family,Cytoplasm. Nucleus. Cell projection  lamellipodium,7q11.23,LIM domain kinase 1 
+LIMK2_HUMAN,P53671,LIMK2,Protein kinase superfamily  TKL Ser/Thr protein kinase family,Cytoplasm. Nucleus. Cell projection  lamellipodium,22q12.2,LIM domain kinase 2 
+LMTK1_HUMAN,Q6ZMQ8,AATK,Protein kinase superfamily  Tyr protein kinase family,Membrane Single-pass type I membrane protein Cytoplasm Cytoplasm  perinuclear region,17q25.3,Serine/threonine-protein kinase LMTK1  
+LMTK2_HUMAN,Q8IWU2,LMTK2,Protein kinase superfamily  Tyr protein kinase family,Membrane Multi-pass membrane protein,7q21.3,Serine/threonine-protein kinase LMTK2  
+LMTK3_HUMAN,Q96Q04,LMTK3,Protein kinase superfamily  Tyr protein kinase family,Membrane Single-pass membrane protein Cell projection  axon Cell projection  dendrite Golgi apparatus membrane,19q13.33,Serine/threonine-protein kinase LMTK3  
+LRRK1_HUMAN,Q38SD2,LRRK1,Protein kinase superfamily  TKL Ser/Thr protein kinase family  ROCO subfamily,Cytoplasm,15q26.3,Leucine-rich repeat serine/threonine-protein kinase 1 
+LRRK2_HUMAN,Q5S007,LRRK2,Protein kinase superfamily  TKL Ser/Thr protein kinase family,Membrane; Peripheral membrane protein. Cytoplasm. Perikaryon. Mitochondrion. Golgi apparatus. Cell projection  axon. Cell projection  dendrite. Endoplasmic reticulum Cytoplasmic vesicle  secretory vesicle  synaptic vesicle membrane Peripheral membrane protein Cytoplasmic side Endosome Lysosome Mitochondrion outer membrane Mitochondrion inner membrane Mitochondrion matrix,12q12,Leucine-rich repeat serine/threonine-protein kinase 2  
+LTK_HUMAN,P29376,LTK,Protein kinase superfamily  Tyr protein kinase family  Insulin receptor subfamily,Membrane Single-pass membrane protein Cell projection  axon Cell projection  dendrite Golgi apparatus membrane,15q15.1,Leukocyte tyrosine kinase receptor  
+LYN_HUMAN,P07948,LYN,Protein kinase superfamily  Tyr protein kinase family  SRC subfamily,Cell membrane. Nucleus. Cytoplasm. Cytoplasm  perinuclear region. Golgi apparatus. Membrane Lipid-anchor,8q12.1,Tyrosine-protein kinase Lyn  
+M3K1_HUMAN,Q13233,MAP3K1,Protein kinase superfamily  STE Ser/Thr protein kinase family  MAP kinase kinase kinase subfamily,Nucleus. Cytoplasm,5q11.2,Mitogen-activated protein kinase kinase kinase 1  
+M3K10_HUMAN,Q02779,MAP3K10,Protein kinase superfamily  STE Ser/Thr protein kinase family  MAP kinase kinase kinase subfamily,Nucleus. Cytoplasm,19q13.2,Mitogen-activated protein kinase kinase kinase 10  
+M3K11_HUMAN,Q16584,MAP3K11,Protein kinase superfamily  STE Ser/Thr protein kinase family  MAP kinase kinase kinase subfamily,Cytoplasm  cytoskeleton  microtubule organizing center  centrosome,11q13.1,Mitogen-activated protein kinase kinase kinase 11  
+M3K12_HUMAN,Q12852,MAP3K12,Protein kinase superfamily  STE Ser/Thr protein kinase family  MAP kinase kinase kinase subfamily,Cytoplasm Cell membrane,12q13.13,Mitogen-activated protein kinase kinase kinase 12  
+M3K13_HUMAN,O43283,MAP3K13,Protein kinase superfamily  STE Ser/Thr protein kinase family  MAP kinase kinase kinase subfamily,Cytoplasm Membrane Peripheral membrane protein,3q27.2,Mitogen-activated protein kinase kinase kinase 13  
+M3K14_HUMAN,Q99558,MAP3K14,Protein kinase superfamily  STE Ser/Thr protein kinase family  MAP kinase kinase kinase subfamily,Cytoplasm Membrane Peripheral membrane protein,17q21.31,Mitogen-activated protein kinase kinase kinase 14  
+M3K15_HUMAN,Q6ZN16,MAP3K15,Protein kinase superfamily  STE Ser/Thr protein kinase family  MAP kinase kinase kinase subfamily,Cytoplasm Membrane Peripheral membrane protein,Xp22.12,Mitogen-activated protein kinase kinase kinase 15  
+M3K19_HUMAN,Q56UN5,MAP3K19,Protein kinase superfamily  STE Ser/Thr protein kinase family  STE20 subfamily,Cytoplasm Membrane Peripheral membrane protein,2q21.3,Mitogen-activated protein kinase kinase kinase 19  
+M3K2_HUMAN,Q9Y2U5,MAP3K2,Protein kinase superfamily  STE Ser/Thr protein kinase family  MAP kinase kinase kinase subfamily,Cytoplasm Nucleus,2q14.3,Mitogen-activated protein kinase kinase kinase 2  
+M3K20_HUMAN,Q9NYL2,MAP3K20,Protein kinase superfamily  STE Ser/Thr protein kinase family  MAP kinase kinase kinase subfamily,Cytoplasm Nucleus,2q31.1,Mitogen-activated protein kinase kinase kinase 20  
+M3K21_HUMAN,Q5TCX8,MAP3K21,Protein kinase superfamily  STE Ser/Thr protein kinase family  MAP kinase kinase kinase subfamily,Cytoplasm Nucleus,1q42.2,Mitogen-activated protein kinase kinase kinase 21  
+M3K3_HUMAN,Q99759,MAP3K3,Protein kinase superfamily  STE Ser/Thr protein kinase family  MAP kinase kinase kinase subfamily,Cytoplasm Nucleus,17q23.3,Mitogen-activated protein kinase kinase kinase 3  
+M3K4_HUMAN,Q9Y6R4,MAP3K4,Protein kinase superfamily  STE Ser/Thr protein kinase family  MAP kinase kinase kinase subfamily,Cytoplasm  perinuclear region,6q26,Mitogen-activated protein kinase kinase kinase 4  
+M3K5_HUMAN,Q99683,MAP3K5,Protein kinase superfamily  STE Ser/Thr protein kinase family  MAP kinase kinase kinase subfamily,Cytoplasm  perinuclear region,6q23.3,Mitogen-activated protein kinase kinase kinase 5  
+M3K6_HUMAN,O95382,MAP3K6,Protein kinase superfamily  STE Ser/Thr protein kinase family  MAP kinase kinase kinase subfamily,Cytoplasm  perinuclear region,1p36.11,Mitogen-activated protein kinase kinase kinase 6  
+M3K7_HUMAN,O43318,MAP3K7,Protein kinase superfamily  STE Ser/Thr protein kinase family  MAP kinase kinase kinase subfamily,Cytoplasm Cell membrane Peripheral membrane protein Cytoplasmic side,6q15,Mitogen-activated protein kinase kinase kinase 7  
+M3K8_HUMAN,P41279,MAP3K8,Protein kinase superfamily  STE Ser/Thr protein kinase family  MAP kinase kinase kinase subfamily,Cytoplasm,10p11.23,Mitogen-activated protein kinase kinase kinase 8  
+M3K9_HUMAN,P80192,MAP3K9,Protein kinase superfamily  STE Ser/Thr protein kinase family  MAP kinase kinase kinase subfamily,Cytoplasm,14q24.2,Mitogen-activated protein kinase kinase kinase 9  
+M4K1_HUMAN,Q92918,MAP4K1,Protein kinase superfamily  STE Ser/Thr protein kinase family  STE20 subfamily,Cytoplasm,19q13.2,Mitogen-activated protein kinase kinase kinase kinase 1  
+M4K2_HUMAN,Q12851,MAP4K2,Protein kinase superfamily  STE Ser/Thr protein kinase family  STE20 subfamily,Cytoplasm Basolateral cell membrane Peripheral membrane protein Golgi apparatus membrane Peripheral membrane protein,11q13.1,Mitogen-activated protein kinase kinase kinase kinase 2  
+M4K3_HUMAN,Q8IVH8,MAP4K3,Protein kinase superfamily  STE Ser/Thr protein kinase family  STE20 subfamily,Cytoplasm Basolateral cell membrane Peripheral membrane protein Golgi apparatus membrane Peripheral membrane protein,2p22.1,Mitogen-activated protein kinase kinase kinase kinase 3  
+M4K4_HUMAN,O95819,MAP4K4,Protein kinase superfamily  STE Ser/Thr protein kinase family  STE20 subfamily,Cytoplasm,2q11.2,Mitogen-activated protein kinase kinase kinase kinase 4  
+M4K5_HUMAN,Q9Y4K4,MAP4K5,Protein kinase superfamily  STE Ser/Thr protein kinase family  STE20 subfamily,Cytoplasm,14q22.1,Mitogen-activated protein kinase kinase kinase kinase 5  
+MAK_HUMAN,P20794,MAK,Protein kinase superfamily  CMGC Ser/Thr protein kinase family  CDC2/CDKX subfamily,Nucleus. Cytoplasm  cytoskeleton  microtubule organizing center  centrosome. Cytoplasm  cytoskeleton  spindle. Midbody. Cell projection  cilium  photoreceptor outer segment Photoreceptor inner segment.,6p24.2,Serine/threonine-protein kinase MAK  
+MAPK2_HUMAN,P49137,MAPKAPK2,Protein kinase superfamily  CAMK Ser/Thr protein kinase family,Cytoplasm Nucleus,1q32.1,MAP kinase-activated protein kinase 2 
+MAPK3_HUMAN,Q16644,MAPKAPK3,Protein kinase superfamily  CAMK Ser/Thr protein kinase family,Nucleus Cytoplasm,3p21.2,MAP kinase-activated protein kinase 3 
+MAPK5_HUMAN,Q8IW41,MAPKAPK5,Protein kinase superfamily  CAMK Ser/Thr protein kinase family,Nucleus Cytoplasm,12q24.12-q24.13,MAP kinase-activated protein kinase 5 
+MARK1_HUMAN,Q9P0L2,MARK1,Protein kinase superfamily  CAMK Ser/Thr protein kinase family  SNF1 subfamily,Cell membrane Peripheral membrane protein Cytoplasm  cytoskeleton Cytoplasm Cell projection  dendrite,1q41,Serine/threonine-protein kinase MARK1   
+MARK2_HUMAN,Q7KZI7,MARK2,Protein kinase superfamily  CAMK Ser/Thr protein kinase family  SNF1 subfamily,Cell membrane; Peripheral membrane protein. Cytoplasm. Lateral cell membrane. Cytoplasm  cytoskeleton. Cell projection  dendrite Cytoplasm,11q13.1,Serine/threonine-protein kinase MARK2   
+MARK3_HUMAN,P27448,MARK3,Protein kinase superfamily  CAMK Ser/Thr protein kinase family  SNF1 subfamily,Cell membrane Peripheral membrane protein Cell projection  dendrite Cytoplasm,14q32.32-q32.33,MAP/microtubule affinity-regulating kinase 3  
+MARK4_HUMAN,Q96L34,MARK4,Protein kinase superfamily  CAMK Ser/Thr protein kinase family  SNF1 subfamily,Cytoplasm  cytoskeleton  microtubule organizing center  centrosome Cytoplasm  cytoskeleton  microtubule organizing center Cytoplasm  cytoskeleton  cilium basal body Cytoplasm  cytoskeleton  cilium axoneme Cytoplasm Cell projection  dendrite,19q13.32,MAP/microtubule affinity-regulating kinase 4  
+MAST1_HUMAN,Q9Y2H9,MAST1,Protein kinase superfamily  AGC Ser/Thr protein kinase family,Cell membrane Peripheral membrane protein Cytoplasmic side Cytoplasm  cytoskeleton,19p13.13,Microtubule-associated serine/threonine-protein kinase 1  
+MAST2_HUMAN,Q6P0Q8,MAST2,Protein kinase superfamily  AGC Ser/Thr protein kinase family,Cytoplasm  cytoskeleton Cell membrane Peripheral membrane protein Cytoplasmic side,1p34.1,Microtubule-associated serine/threonine-protein kinase 2 
+MAST3_HUMAN,O60307,MAST3,Protein kinase superfamily  AGC Ser/Thr protein kinase family,Cytoplasm  cytoskeleton Cell membrane Peripheral membrane protein Cytoplasmic side,19p13.11,Microtubule-associated serine/threonine-protein kinase 3 
+MAST4_HUMAN,O15021,MAST4,Protein kinase superfamily  AGC Ser/Thr protein kinase family,Cytoplasm,5q12.3,Microtubule-associated serine/threonine-protein kinase 4 
+MATK_HUMAN,P42679,MATK,Protein kinase superfamily  Tyr protein kinase family  CSK subfamily,Cytoplasm Membrane,19p13.3,Megakaryocyte-associated tyrosine-protein kinase  
+MCM4_HUMAN,P33991,MCM4,MCM family,Nucleus,8q11.21,DNA replication licensing factor MCM4 
+MELK_HUMAN,Q14680,MELK,Protein kinase superfamily  CAMK Ser/Thr protein kinase family  SNF1 subfamily,Cell membrane Peripheral membrane protein,9p13.2,Maternal embryonic leucine zipper kinase 
+MERTK_HUMAN,Q12866,MERTK,Protein kinase superfamily  Tyr protein kinase family  AXL/UFO subfamily,Membrane Single-pass type I membrane protein,2q13,Tyrosine-protein kinase Mer  
+MET_HUMAN,P08581,MET,Protein kinase superfamily  Tyr protein kinase family,Membrane Single-pass type I membrane protein,7q31.2,Hepatocyte growth factor receptor 
+MINK1_HUMAN,Q8N4C8,MINK1,Protein kinase superfamily  STE Ser/Thr protein kinase family  STE20 subfamily,Cytoplasm Cell junction  synapse  postsynaptic cell membrane  postsynaptic density Cell projection  axon Cell projection  dendrite,17p13.2,Misshapen-like kinase 1  
+MK01_HUMAN,P28482,MAPK1,Protein kinase superfamily  CMGC Ser/Thr protein kinase family  MAP kinase subfamily,Cytoplasm  cytoskeleton  spindle Nucleus. Cytoplasm  cytoskeleton  microtubule organizing center  centrosome. Cytoplasm. Membrane  caveola,22q11.22,Mitogen-activated protein kinase 1 
+MK03_HUMAN,P27361,MAPK3,Protein kinase superfamily  CMGC Ser/Thr protein kinase family  MAP kinase subfamily,Cytoplasm. Nucleus. Membrane  caveola,16p11.2,Mitogen-activated protein kinase 3 
+MK04_HUMAN,P31152,MAPK4,Protein kinase superfamily  CMGC Ser/Thr protein kinase family  MAP kinase subfamily,Cytoplasm Nucleus,18q21.1-q21.2,Mitogen-activated protein kinase 4 
+MK06_HUMAN,Q16659,MAPK6,Protein kinase superfamily  CMGC Ser/Thr protein kinase family  MAP kinase subfamily,Cytoplasm Nucleus,15q21.2,Mitogen-activated protein kinase 6 
+MK07_HUMAN,Q13164,MAPK7,Protein kinase superfamily  CMGC Ser/Thr protein kinase family  MAP kinase subfamily,Cytoplasm Nucleus,17p11.2,Mitogen-activated protein kinase 7 
+MK08_HUMAN,P45983,MAPK8,Protein kinase superfamily  CMGC Ser/Thr protein kinase family  MAP kinase subfamily,Cytoplasm Nucleus,10q11.22,Mitogen-activated protein kinase 8 
+MK09_HUMAN,P45984,MAPK9,Protein kinase superfamily  CMGC Ser/Thr protein kinase family  MAP kinase subfamily,Cytoplasm Nucleus,5q35.3,Mitogen-activated protein kinase 9 
+MK10_HUMAN,P53779,MAPK10,Protein kinase superfamily  CMGC Ser/Thr protein kinase family  MAP kinase subfamily,Cytoplasm Membrane Lipid-anchor Nucleus Mitochondrion,4q21.3,Mitogen-activated protein kinase 10 
+MK11_HUMAN,Q15759,MAPK11,Protein kinase superfamily  CMGC Ser/Thr protein kinase family  MAP kinase subfamily,Cytoplasm Nucleus,22q13.33,Mitogen-activated protein kinase 11 
+MK12_HUMAN,P53778,MAPK12,Protein kinase superfamily  CMGC Ser/Thr protein kinase family  MAP kinase subfamily,Cytoplasm Nucleus,22q13.33,Mitogen-activated protein kinase 12 
+MK13_HUMAN,O15264,MAPK13,Protein kinase superfamily  CMGC Ser/Thr protein kinase family  MAP kinase subfamily,Cytoplasm Nucleus,6p21.31,Mitogen-activated protein kinase 13 
+MK14_HUMAN,Q16539,MAPK14,Protein kinase superfamily  CMGC Ser/Thr protein kinase family  MAP kinase subfamily,Cytoplasm Nucleus,6p21.31,Mitogen-activated protein kinase 14 
+MK15_HUMAN,Q8TD08,MAPK15,Protein kinase superfamily  CMGC Ser/Thr protein kinase family  MAP kinase subfamily,Cytoplasm  cytoskeleton  cilium basal body Cell junction  tight junction Cytoplasm  cytoskeleton  microtubule organizing center  centrosome  centriole Cytoplasmic vesicle  autophagosome Golgi apparatus Nucleus Cytoplasm Cytoplasm  cytoskeleton  spindle,-,Mitogen-activated protein kinase 15 
+MKNK1_HUMAN,Q9BUB5,MKNK1,Protein kinase superfamily  CAMK Ser/Thr protein kinase family,Cell membrane Peripheral membrane protein,1p33,MAP kinase-interacting serine/threonine-protein kinase 1  
+MKNK2_HUMAN,Q9HBH9,MKNK2,Protein kinase superfamily  CAMK Ser/Thr protein kinase family,Cell membrane Peripheral membrane protein,19p13.3,MAP kinase-interacting serine/threonine-protein kinase 2  
+MLKL_HUMAN,Q8NB16,MLKL,Protein kinase superfamily,Cytoplasm Cell membrane,16q23.1,Mixed lineage kinase domain-like protein 
+MOK_HUMAN,Q9UQ07,MOK,Protein kinase superfamily  CMGC Ser/Thr protein kinase family  CDC2/CDKX subfamily,Cytoplasm Cell projection  cilium Nucleus,14q32.31,MAPK/MAK/MRK overlapping kinase  
+MOS_HUMAN,P00540,MOS,Protein kinase superfamily  Ser/Thr protein kinase family,Cytoplasm Cell membrane,8q12.1,Proto-oncogene serine/threonine-protein kinase mos  
+MP2K1_HUMAN,Q02750,MAP2K1,Protein kinase superfamily  STE Ser/Thr protein kinase family  MAP kinase kinase subfamily,Cytoplasm  cytoskeleton  microtubule organizing center  centrosome Cytoplasm  cytoskeleton  microtubule organizing center  spindle pole body Cytoplasm Nucleus Membrane Peripheral membrane protein,15q22.31,Dual specificity mitogen-activated protein kinase kinase 1 
+MP2K2_HUMAN,P36507,MAP2K2,Protein kinase superfamily  STE Ser/Thr protein kinase family  MAP kinase kinase subfamily,Cytoplasm Membrane Peripheral membrane protein,19p13.3,Dual specificity mitogen-activated protein kinase kinase 2 
+MP2K3_HUMAN,P46734,MAP2K3,Protein kinase superfamily  STE Ser/Thr protein kinase family  MAP kinase kinase subfamily,Cytoplasm Membrane Peripheral membrane protein,17p11.2,Dual specificity mitogen-activated protein kinase kinase 3 
+MP2K4_HUMAN,P45985,MAP2K4,Protein kinase superfamily  STE Ser/Thr protein kinase family  MAP kinase kinase subfamily,Cytoplasm Nucleus,17p12,Dual specificity mitogen-activated protein kinase kinase 4 
+MP2K5_HUMAN,Q13163,MAP2K5,Protein kinase superfamily  STE Ser/Thr protein kinase family  MAP kinase kinase subfamily,Cytoplasm Nucleus,15q23,Dual specificity mitogen-activated protein kinase kinase 5 
+MP2K6_HUMAN,P52564,MAP2K6,Protein kinase superfamily  STE Ser/Thr protein kinase family  MAP kinase kinase subfamily,Nucleus Cytoplasm Cytoplasm  cytoskeleton,17q24.3,Dual specificity mitogen-activated protein kinase kinase 6 
+MP2K7_HUMAN,O14733,MAP2K7,Protein kinase superfamily  STE Ser/Thr protein kinase family  MAP kinase kinase subfamily,Nucleus. Cytoplasm,19p13.2,Dual specificity mitogen-activated protein kinase kinase 7 
+MRCKA_HUMAN,Q5VT25,CDC42BPA,Protein kinase superfamily  AGC Ser/Thr protein kinase family  DMPK subfamily,Cytoplasm Cell projection  lamellipodium,1q42.13,Serine/threonine-protein kinase MRCK alpha  
+MRCKB_HUMAN,Q9Y5S2,CDC42BPB,Protein kinase superfamily  AGC Ser/Thr protein kinase family  DMPK subfamily,Cytoplasm Cell membrane Peripheral membrane protein Cytoplasmic side Cell junction Cell projection  lamellipodium,14q32.32,Serine/threonine-protein kinase MRCK beta  
+MRCKG_HUMAN,Q6DT37,CDC42BPG,Protein kinase superfamily  AGC Ser/Thr protein kinase family  DMPK subfamily,Cytoplasm,11q13.1,Serine/threonine-protein kinase MRCK gamma  
+MTOR_HUMAN,P42345,MTOR,PI3/PI4-kinase family,Endoplasmic reticulum membrane Peripheral membrane protein Cytoplasmic side Golgi apparatus membrane Peripheral membrane protein Cytoplasmic side Mitochondrion outer membrane Peripheral membrane protein Cytoplasmic side Lysosome Cytoplasm Nucleus  PML body Microsome membrane,1p36.22,Serine/threonine-protein kinase mTOR  
+MUSK_HUMAN,O15146,MUSK,Protein kinase superfamily  Tyr protein kinase family,Cell junction  synapse  postsynaptic cell membrane Single-pass type I membrane protein,9q31.3,Muscle  skeletal receptor tyrosine-protein kinase  
+MYLK_HUMAN,Q15746,MYLK,Protein kinase superfamily  CAMK Ser/Thr protein kinase family,Cytoplasm Cell projection  lamellipodium Cleavage furrow Cytoplasm  cytoskeleton  stress fiber,3q21.1,Myosin light chain kinase  smooth muscle 
+MYLK2_HUMAN,Q9H1R3,MYLK2,Protein kinase superfamily  CAMK Ser/Thr protein kinase family,Cytoplasm Cell projection  lamellipodium Cleavage furrow Cytoplasm  cytoskeleton  stress fiber,20q11.21,Myosin light chain kinase 2  skeletal/cardiac muscle 
+MYLK3_HUMAN,Q32MK0,MYLK3,Protein kinase superfamily  CAMK Ser/Thr protein kinase family,Cytoplasm,16q11.2,Myosin light chain kinase 3 
+MYLK4_HUMAN,Q86YV6,MYLK4,Protein kinase superfamily  CAMK Ser/Thr protein kinase family,Cytoplasm,,Myosin light chain kinase family member 4  
+MYO3A_HUMAN,Q8NEV4,MYO3A,TRAFAC class myosin-kinesin ATPase superfamily  Myosin family; Protein kinase superfamily  STE Ser/Thr protein kinase family,Cytoplasm  cytoskeleton. Cytoplasm Cell projection  filopodium tip Cell projection  stereocilium,10p12.1,Myosin-IIIa 
+MYO3B_HUMAN,Q8WXR4,MYO3B,TRAFAC class myosin-kinesin ATPase superfamily  Myosin family; Protein kinase superfamily  STE Ser/Thr protein kinase family,Cytoplasm  cytoskeleton. Cell projection  stereocilium,2q31.1,Myosin-IIIb 
+NEK1_HUMAN,Q96PY6,NEK1,Protein kinase superfamily  NEK Ser/Thr protein kinase family  NIMA subfamily,Nucleus Cytoplasm  cytoskeleton  microtubule organizing center  centrosome Cytoplasm,4q33,Serine/threonine-protein kinase Nek1  
+NEK10_HUMAN,Q6ZWH5,NEK10,Protein kinase superfamily  NEK Ser/Thr protein kinase family  NIMA subfamily,Nucleus Cytoplasm  cytoskeleton  microtubule organizing center  centrosome Cytoplasm,3p24.1,Serine/threonine-protein kinase Nek10  
+NEK11_HUMAN,Q8NG66,NEK11,Protein kinase superfamily  NEK Ser/Thr protein kinase family  NIMA subfamily,Nucleus Nucleus  nucleolus,3q22.1,Serine/threonine-protein kinase Nek11  
+NEK2_HUMAN,P51955,NEK2,Protein kinase superfamily  NEK Ser/Thr protein kinase family  NIMA subfamily,Isoform 1: Nucleus. Nucleus  nucleolus Cytoplasm. Cytoplasm  cytoskeleton  microtubule organizing center  centrosome Cytoplasm  cytoskeleton  spindle pole. Chromosome  centromere  kinetochore. Chromosome  centromere,1q32.3,Serine/threonine-protein kinase Nek2  
+NEK3_HUMAN,P51956,NEK3,Protein kinase superfamily  NEK Ser/Thr protein kinase family  NIMA subfamily,Cytoplasm Cell projection  axon,13q14.3,Serine/threonine-protein kinase Nek3  
+NEK4_HUMAN,P51957,NEK4,Protein kinase superfamily  NEK Ser/Thr protein kinase family  NIMA subfamily,Cell projection  cilium Cytoplasm,3p21.1,Serine/threonine-protein kinase Nek4  
+NEK5_HUMAN,Q6P3R8,NEK5,Protein kinase superfamily  NEK Ser/Thr protein kinase family  NIMA subfamily,Cell projection  cilium Cytoplasm,13q14.3,Serine/threonine-protein kinase Nek5  
+NEK6_HUMAN,Q9HC98,NEK6,Protein kinase superfamily  NEK Ser/Thr protein kinase family  NIMA subfamily,Cell projection  cilium Cytoplasm,9q33.3,Serine/threonine-protein kinase Nek6  
+NEK7_HUMAN,Q8TDX7,NEK7,Protein kinase superfamily  NEK Ser/Thr protein kinase family  NIMA subfamily,Cell projection  cilium Cytoplasm,1q31.3,Serine/threonine-protein kinase Nek7  
+NEK8_HUMAN,Q86SG6,NEK8,Protein kinase superfamily  NEK Ser/Thr protein kinase family  NIMA subfamily,Cytoplasm Cytoplasm  cytoskeleton. Cell projection  cilium,17q11.2,Serine/threonine-protein kinase Nek8  
+NEK9_HUMAN,Q8TD19,NEK9,Protein kinase superfamily  NEK Ser/Thr protein kinase family  NIMA subfamily,Cytoplasm Nucleus,14q24.3,Serine/threonine-protein kinase Nek9  
+NIM1_HUMAN,Q8IY84,NIM1K,Protein kinase superfamily  CAMK Ser/Thr protein kinase family,Cytoplasm,5p12,Serine/threonine-protein kinase NIM1  
+NLK_HUMAN,Q9UBE8,NLK,Protein kinase superfamily  CMGC Ser/Thr protein kinase family  MAP kinase subfamily,Nucleus Cytoplasm,17q11.2,Serine/threonine-protein kinase NLK  
+NRBP_HUMAN,Q9UHY1,NRBP1,Protein kinase superfamily  Ser/Thr protein kinase family,Cytoplasm  cell cortex Endomembrane system Cell projection  lamellipodium,2p23.3,Nuclear receptor-binding protein
+NRBP2_HUMAN,Q9NSY0,NRBP2,Protein kinase superfamily  Ser/Thr protein kinase family,Cytoplasm,8q24.3,Nuclear receptor-binding protein 2 
+NRK_HUMAN,Q7Z2Y5,NRK,Protein kinase superfamily  STE Ser/Thr protein kinase family  STE20 subfamily,Cytoplasm  cytoskeleton. Cell projection  stereocilium,Xq22.3,Nik-related protein kinase 
+NTRK1_HUMAN,P04629,NTRK1,Protein kinase superfamily  Tyr protein kinase family  Insulin receptor subfamily,Cell membrane Single-pass type I membrane protein Early endosome membrane Single-pass type I membrane protein Late endosome membrane Single-pass type I membrane protein Recycling endosome membrane Single-pass type I membrane protein,1q23.1,High affinity nerve growth factor receptor  
+NTRK2_HUMAN,Q16620,NTRK2,Protein kinase superfamily  Tyr protein kinase family  Insulin receptor subfamily,Cell membrane Single-pass type I membrane protein Endosome membrane Single-pass type I membrane protein Early endosome membrane Cell projection  axon Cell projection  dendrite Cytoplasm  perinuclear region,9q21.33,BDNF/NT-3 growth factors receptor  
+NTRK3_HUMAN,Q16288,NTRK3,Protein kinase superfamily  Tyr protein kinase family  Insulin receptor subfamily,Cell membrane Single-pass type I membrane protein Endosome membrane Single-pass type I membrane protein Early endosome membrane Cell projection  axon Cell projection  dendrite Cytoplasm  perinuclear region,15q25.3,NT-3 growth factor receptor  
+NUAK1_HUMAN,O60285,NUAK1,Protein kinase superfamily  CAMK Ser/Thr protein kinase family  SNF1 subfamily,Nucleus Cytoplasm,12q23.3,NUAK family SNF1-like kinase 1  
+NUAK2_HUMAN,Q9H093,NUAK2,Protein kinase superfamily  CAMK Ser/Thr protein kinase family  SNF1 subfamily,Nucleus Cytoplasm,1q32.1,NUAK family SNF1-like kinase 2  
+OBSCN_HUMAN,Q5VST9,OBSCN,Protein kinase superfamily  CAMK Ser/Thr protein kinase family,Cytoplasm  myofibril  sarcomere  M line Cytoplasm  myofibril  sarcomere  Z line,1q42.13,Obscurin  
+OXSR1_HUMAN,O95747,OXSR1,Protein kinase superfamily  STE Ser/Thr protein kinase family  STE20 subfamily,Cytoplasm,3p22.2,Serine/threonine-protein kinase OSR1  
+PACE1_HUMAN,Q8IZE3,SCYL3,Protein kinase superfamily,Cytoplasm Golgi apparatus Cell projection  lamellipodium,1q24.2,Protein-associating with the carboxyl-terminal domain of ezrin 
+PAK1_HUMAN,Q13153,PAK1,Protein kinase superfamily  STE Ser/Thr protein kinase family  STE20 subfamily,Cytoplasm Cell junction  focal adhesion Cell membrane Cell projection  ruffle membrane Cell projection  invadopodium,11q13.5-q14.1,Serine/threonine-protein kinase PAK 1  
+PAK2_HUMAN,Q13177,PAK2,Protein kinase superfamily  STE Ser/Thr protein kinase family  STE20 subfamily,Cytoplasm Cell junction  focal adhesion Cell membrane Cell projection  ruffle membrane Cell projection  invadopodium,3q29,Serine/threonine-protein kinase PAK 2  
+PAK3_HUMAN,O75914,PAK3,Protein kinase superfamily  STE Ser/Thr protein kinase family  STE20 subfamily,Cytoplasm,Xq23,Serine/threonine-protein kinase PAK 3  
+PAK4_HUMAN,O96013,PAK4,Protein kinase superfamily  STE Ser/Thr protein kinase family  STE20 subfamily,Cytoplasm,19q13.2,Serine/threonine-protein kinase PAK 4  
+PAK5_HUMAN,Q9P286,PAK5,Protein kinase superfamily  STE Ser/Thr protein kinase family  STE20 subfamily,Cytoplasm,20p12.2,Serine/threonine-protein kinase PAK 5  
+PAK6_HUMAN,Q9NQU5,PAK6,Protein kinase superfamily  STE Ser/Thr protein kinase family  STE20 subfamily,Cytoplasm,15q15.1,Serine/threonine-protein kinase PAK 6  
+PAN3_HUMAN,Q58A45,PAN3,Protein kinase superfamily  PAN3 family,Cytoplasm  P-body,13q12.2,PAN2-PAN3 deadenylation complex subunit PAN3 
+PANX3_HUMAN,Q96QZ0,PANX3,Pannexin family,Cell membrane Multi-pass membrane protein Cell junction  gap junction.,11q24.2,Pannexin-3
+PASK_HUMAN,Q96RG2,PASK,Protein kinase superfamily  CAMK Ser/Thr protein kinase family,Cytoplasm Nucleus,2q37.3,PAS domain-containing serine/threonine-protein kinase 
+PDK1_HUMAN,Q15118,PDK1,PDK/BCKDK protein kinase family,Mitochondrion matrix,2q31.1,[Pyruvate dehydrogenase 
+PDK1L_HUMAN,Q8N165,PDIK1L,Protein kinase superfamily  Ser/Thr protein kinase family,Nucleus,1p36.11,Serine/threonine-protein kinase PDIK1L  
+PDK2_HUMAN,Q15119,PDK2,PDK/BCKDK protein kinase family,Mitochondrion matrix,17q21.33,[Pyruvate dehydrogenase 
+PDK3_HUMAN,Q15120,PDK3,PDK/BCKDK protein kinase family,Mitochondrion matrix,Xp22.11,[Pyruvate dehydrogenase 
+PDK4_HUMAN,Q16654,PDK4,PDK/BCKDK protein kinase family,Mitochondrion matrix,7q21.3,[Pyruvate dehydrogenase 
+PDPK1_HUMAN,O15530,PDPK1,Protein kinase superfamily  AGC Ser/Thr protein kinase family  PDPK1 subfamily,Cytoplasm  cytoskeleton  microtubule organizing center  centrosome Nucleus Cleavage furrow,16p13.3,3-phosphoinositide-dependent protein kinase 1 
+PDPK2_HUMAN,Q6A1A2,PDPK2P,Protein kinase superfamily  AGC Ser/Thr protein kinase family  PDPK1 subfamily,Cytoplasm Membrane Peripheral membrane protein,,Putative 3-phosphoinositide-dependent protein kinase 2  
+PEAK1_HUMAN,Q9H792,PEAK1,Protein kinase superfamily,Cytoplasm  cytoskeleton Cell junction  focal adhesion,15q24.3,Inactive tyrosine-protein kinase PEAK1 
+PGFRA_HUMAN,P16234,PDGFRA,Protein kinase superfamily  Tyr protein kinase family  CSF-1/PDGF receptor subfamily,Cell membrane Single-pass type I membrane protein Cell projection  cilium Golgi apparatus,4q12,Platelet-derived growth factor receptor alpha 
+PGFRB_HUMAN,P09619,PDGFRB,Protein kinase superfamily  Tyr protein kinase family  CSF-1/PDGF receptor subfamily,Cell membrane Single-pass type I membrane protein Cell projection  cilium Golgi apparatus,5q32,Platelet-derived growth factor receptor beta 
+PHKG1_HUMAN,Q16816,PHKG1,Protein kinase superfamily  CAMK Ser/Thr protein kinase family,Cytoplasm Nucleus,7p11.2,Phosphorylase b kinase gamma catalytic chain  skeletal muscle/heart isoform 
+PHKG2_HUMAN,P15735,PHKG2,Protein kinase superfamily  CAMK Ser/Thr protein kinase family,Cytoplasm Nucleus,16p11.2,Phosphorylase b kinase gamma catalytic chain  liver/testis isoform 
+PI3R4_HUMAN,Q99570,PIK3R4,Protein kinase superfamily  Ser/Thr protein kinase family,Late endosome Cytoplasmic vesicle  autophagosome Membrane Lipid-anchor,3q22.1,Phosphoinositide 3-kinase regulatory subunit 4 
+PIM1_HUMAN,P11309,PIM1,Protein kinase superfamily  CAMK Ser/Thr protein kinase family  PIM subfamily,Cytoplasm Nucleus,6p21.2,Serine/threonine-protein kinase pim-1 
+PIM2_HUMAN,Q9P1W9,PIM2,Protein kinase superfamily  CAMK Ser/Thr protein kinase family  PIM subfamily,Cytoplasm Nucleus,Xp11.23,Serine/threonine-protein kinase pim-2  
+PIM3_HUMAN,Q86V86,PIM3,Protein kinase superfamily  CAMK Ser/Thr protein kinase family  PIM subfamily,Cytoplasm,22q13.33,Serine/threonine-protein kinase pim-3 
+PINK1_HUMAN,Q9BXM7,PINK1,Protein kinase superfamily  Ser/Thr protein kinase family,Mitochondrion outer membrane Single-pass membrane protein Mitochondrion inner membrane Single-pass membrane protein Cytoplasm  cytosol,1p36.12,Serine/threonine-protein kinase PINK1  mitochondrial  
+PK3CA_HUMAN,P42336,PIK3CA,PI3/PI4-kinase family,Endoplasmic reticulum membrane Peripheral membrane protein Cytoplasmic side Golgi apparatus membrane Peripheral membrane protein Cytoplasmic side Mitochondrion outer membrane Peripheral membrane protein Cytoplasmic side Lysosome Cytoplasm Nucleus  PML body Microsome membrane,3q26.32,Phosphatidylinositol 4 5-bisphosphate 3-kinase catalytic subunit alpha isoform 
+PK3CB_HUMAN,P42338,PIK3CB,PI3/PI4-kinase family,Cytoplasm Nucleus,3q22.3,Phosphatidylinositol 4 5-bisphosphate 3-kinase catalytic subunit beta isoform 
+PK3CD_HUMAN,O00329,PIK3CD,PI3/PI4-kinase family,Cytoplasm,1p36.22,Phosphatidylinositol 4 5-bisphosphate 3-kinase catalytic subunit delta isoform 
+PK3CG_HUMAN,P48736,PIK3CG,PI3/PI4-kinase family,Cytoplasm Cell membrane,7q22.3,Phosphatidylinositol 4 5-bisphosphate 3-kinase catalytic subunit gamma isoform 
+PKDCC_HUMAN,Q504Y2,PKDCC,Protein kinase superfamily,Secreted Golgi apparatus,2p21,Extracellular tyrosine-protein kinase PKDCC  
+PKN1_HUMAN,Q16512,PKN1,Protein kinase superfamily  AGC Ser/Thr protein kinase family  PKC subfamily,Cytoplasm Nucleus Endosome Cell membrane Peripheral membrane protein Cleavage furrow Midbody,19p13.12,Serine/threonine-protein kinase N1  
+PKN2_HUMAN,Q16513,PKN2,Protein kinase superfamily  AGC Ser/Thr protein kinase family  PKC subfamily,Cytoplasm Nucleus Membrane Cell projection  lamellipodium Cytoplasm  cytoskeleton Cleavage furrow Midbody Cell junction,1p22.2,Serine/threonine-protein kinase N2  
+PKN3_HUMAN,Q6P5Z2,PKN3,Protein kinase superfamily  AGC Ser/Thr protein kinase family  PKC subfamily,Nucleus Cytoplasm  perinuclear region,9q34.11,Serine/threonine-protein kinase N3  
+PLK1_HUMAN,P53350,PLK1,Protein kinase superfamily  Ser/Thr protein kinase family  CDC5/Polo subfamily,Nucleus. Chromosome  centromere  kinetochore. Cytoplasm  cytoskeleton  microtubule organizing center  centrosome Cytoplasm  cytoskeleton  spindle Midbody.,16p12.2,Serine/threonine-protein kinase PLK1  
+PLK2_HUMAN,Q9NYY3,PLK2,Protein kinase superfamily  Ser/Thr protein kinase family  CDC5/Polo subfamily,Cytoplasm  cytoskeleton  microtubule organizing center  centrosome  centriole Cell projection  dendrite,5q11.2,Serine/threonine-protein kinase PLK2  
+PLK3_HUMAN,Q9H4B4,PLK3,Protein kinase superfamily  Ser/Thr protein kinase family  CDC5/Polo subfamily,Cytoplasm  cytoskeleton  microtubule organizing center  centrosome  centriole Cell projection  dendrite,1p34.1,Serine/threonine-protein kinase PLK3  
+PLK4_HUMAN,O00444,PLK4,Protein kinase superfamily  Ser/Thr protein kinase family  CDC5/Polo subfamily,Cytoplasm  cytoskeleton  microtubule organizing center  centrosome  centriole Nucleus  nucleolus Cleavage furrow.,4q28.1,Serine/threonine-protein kinase PLK4  
+PLK5_HUMAN,Q496M5,PLK5,Protein kinase superfamily  Ser/Thr protein kinase family  CDC5/Polo subfamily,Nucleus  nucleolus Cytoplasm,,Inactive serine/threonine-protein kinase PLK5 
+PMYT1_HUMAN,Q99640,PKMYT1,Protein kinase superfamily  Ser/Thr protein kinase family  WEE1 subfamily,Endoplasmic reticulum membrane Peripheral membrane protein Golgi apparatus membrane Peripheral membrane protein,16p13.3,Membrane-associated tyrosine- and threonine-specific cdc2-inhibitory kinase  
+PRAG1_HUMAN,Q86YV5,PRAG1,Protein kinase superfamily,Cytoplasm Cell junction  focal adhesion Nucleus,8p23.1,Inactive tyrosine-protein kinase PRAG1 
+PRKDC_HUMAN,P78527,PRKDC,PI3/PI4-kinase family,Nucleus Nucleus  nucleolus,8q11.21,DNA-dependent protein kinase catalytic subunit 
+PRKX_HUMAN,P51817,PRKX,Protein kinase superfamily  AGC Ser/Thr protein kinase family  cAMP subfamily,Apical cell membrane Lipid-anchor,Xp22.33,cAMP-dependent protein kinase catalytic subunit PRKX 
+PRKY_HUMAN,O43930,PRKY,Protein kinase superfamily  AGC Ser/Thr protein kinase family  cAMP subfamily,Apical cell membrane Lipid-anchor,Yp11.2,Putative serine/threonine-protein kinase PRKY 
+PRP4B_HUMAN,Q13523,PRPF4B,Protein kinase superfamily  CMGC Ser/Thr protein kinase family,Nucleus Cytoplasm,6p25.2,Serine/threonine-protein kinase PRP4 homolog  
+PRPK_HUMAN,Q96S44,TP53RK,Protein kinase superfamily  BUD32 family,Cytoplasm Nucleus,20q13.12,EKC/KEOPS complex subunit TP53RK  
+PTK6_HUMAN,Q13882,PTK6,Protein kinase superfamily  Tyr protein kinase family  BRK/PTK6/SIK subfamily,Cytoplasm. Nucleus. Cell projection  ruffle. Membrane,20q13.33,Protein-tyrosine kinase 6  
+PTK7_HUMAN,Q13308,PTK7,Protein kinase superfamily  Tyr protein kinase family  Insulin receptor subfamily,Membrane Single-pass type I membrane protein Cell junction,6p21.1,Inactive tyrosine-protein kinase 7 
+PXK_HUMAN,Q7Z7A4,PXK,Protein kinase superfamily,Cytoplasm Cell membrane Peripheral membrane protein,3p14.3,PX domain-containing protein kinase-like protein 
+RAF1_HUMAN,P04049,RAF1,Protein kinase superfamily  TKL Ser/Thr protein kinase family  RAF subfamily,Membrane; Peripheral membrane protein. Cytoplasm. Perikaryon. Mitochondrion. Golgi apparatus. Cell projection  axon. Cell projection  dendrite. Endoplasmic reticulum Cytoplasmic vesicle  secretory vesicle  synaptic vesicle membrane Peripheral membrane protein Cytoplasmic side Endosome Lysosome Mitochondrion outer membrane Mitochondrion inner membrane Mitochondrion matrix,3p25.2,RAF proto-oncogene serine/threonine-protein kinase  
+RET_HUMAN,P07949,RET,Protein kinase superfamily  Tyr protein kinase family,Cell membrane Single-pass type I membrane protein Endosome membrane Single-pass type I membrane protein,10q11.21,Proto-oncogene tyrosine-protein kinase receptor Ret  
+RIOK1_HUMAN,Q9BRS2,RIOK1,Protein kinase superfamily  RIO-type Ser/Thr kinase family,Cytoplasm  cytosol,6p24.3,Serine/threonine-protein kinase RIO1  
+RIOK2_HUMAN,Q9BVS4,RIOK2,Protein kinase superfamily  RIO-type Ser/Thr kinase family,Cytoplasm,5q15,Serine/threonine-protein kinase RIO2  
+RIOK3_HUMAN,O14730,RIOK3,Protein kinase superfamily  RIO-type Ser/Thr kinase family,Cytoplasm,18q11.2,Serine/threonine-protein kinase RIO3  
+RIPK1_HUMAN,Q13546,RIPK1,Protein kinase superfamily  TKL Ser/Thr protein kinase family,Cytoplasm. Cell membrane,6p25.2,Receptor-interacting serine/threonine-protein kinase 1  
+RIPK2_HUMAN,O43353,RIPK2,Protein kinase superfamily  TKL Ser/Thr protein kinase family,Cytoplasm,8q21.3,Receptor-interacting serine/threonine-protein kinase 2  
+RIPK3_HUMAN,Q9Y572,RIPK3,Protein kinase superfamily  TKL Ser/Thr protein kinase family,Cytoplasm  cytosol Cell membrane Mitochondrion,14q12,Receptor-interacting serine/threonine-protein kinase 3  
+RIPK4_HUMAN,P57078,RIPK4,Protein kinase superfamily  TKL Ser/Thr protein kinase family,Cytoplasm. Membrane Peripheral membrane protein,21q22.3,Receptor-interacting serine/threonine-protein kinase 4  
+RK_HUMAN,Q15835,GRK1,Protein kinase superfamily  AGC Ser/Thr protein kinase family  GPRK subfamily,Membrane Lipid-anchor,13q34,Rhodopsin kinase 
+RN5A_HUMAN,Q05823,RNASEL,Protein kinase superfamily,Cytoplasm Mitochondrion,1q25.3,2-5A-dependent ribonuclease 
+ROCK1_HUMAN,Q13464,ROCK1,Protein kinase superfamily  AGC Ser/Thr protein kinase family,Cytoplasm. Cytoplasm  cytoskeleton  microtubule organizing center  centrosome  centriole Golgi apparatus membrane; Peripheral membrane protein. Cell projection  bleb. Cytoplasm  cytoskeleton Cell membrane Cell projection  lamellipodium Cell projection  ruffle,18q11.1,Rho-associated protein kinase 1  
+ROCK2_HUMAN,O75116,ROCK2,Protein kinase superfamily  AGC Ser/Thr protein kinase family,Cytoplasm. Cell membrane Peripheral membrane protein Nucleus. Cytoplasm  cytoskeleton  microtubule organizing center  centrosome.,2p25.1,Rho-associated protein kinase 2  
+RON_HUMAN,Q04912,MST1R,Protein kinase superfamily  Tyr protein kinase family,Membrane Single-pass type I membrane protein,3p21.31,Macrophage-stimulating protein receptor 
+ROR1_HUMAN,Q01973,ROR1,Protein kinase superfamily  Tyr protein kinase family  ROR subfamily,Membrane Single-pass type I membrane protein. Cell projection  axon,1p31.3,Inactive tyrosine-protein kinase transmembrane receptor ROR1 
+ROR2_HUMAN,Q01974,ROR2,Protein kinase superfamily  Tyr protein kinase family  ROR subfamily,Cell membrane Single-pass type I membrane protein,9q22.31,Tyrosine-protein kinase transmembrane receptor ROR2  
+RORA_HUMAN,P35398,RORA,Nuclear hormone receptor family  NR1 subfamily,Nucleus,15q22.2,Nuclear receptor ROR-alpha 
+ROS1_HUMAN,P08922,ROS1,Protein kinase superfamily  Tyr protein kinase family  Insulin receptor subfamily,Cell membrane Single-pass type I membrane protein,6q22.1,Proto-oncogene tyrosine-protein kinase ROS  
+RPKL1_HUMAN,Q9Y6S9,RPS6KL1,Protein kinase superfamily  Ser/Thr protein kinase family  S6 kinase subfamily,Cytoplasm Membrane Early endosome,14q24.3,Ribosomal protein S6 kinase-like 1 
+RYK_HUMAN,P34925,RYK,Protein kinase superfamily  Tyr protein kinase family,Membrane Single-pass type I membrane protein Nucleus Cytoplasm,3q22.2,Tyrosine-protein kinase RYK 
+SBK1_HUMAN,Q52WX2,SBK1,Protein kinase superfamily  Ser/Thr protein kinase family,Cytoplasm,16p12.1,Serine/threonine-protein kinase SBK1  
+SBK2_HUMAN,P0C263,SBK2,Protein kinase superfamily  Ser/Thr protein kinase family  STKL subfamily,Cytoplasm,,Serine/threonine-protein kinase SBK2  
+SBK3_HUMAN,P0C264,SBK3,Protein kinase superfamily  Ser/Thr protein kinase family  STKL subfamily,Cytoplasm,19q13.42,Uncharacterized serine/threonine-protein kinase SBK3  
+SCYL1_HUMAN,Q96KG9,SCYL1,Protein kinase superfamily,Cytoplasm  cytoskeleton  microtubule organizing center  centrosome Endoplasmic reticulum-Golgi intermediate compartment Golgi apparatus  cis-Golgi network,11q13.1,N-terminal kinase-like protein 
+SCYL2_HUMAN,Q6P3W7,SCYL2,Protein kinase superfamily,Cytoplasm  cytoskeleton  microtubule organizing center  centrosome Endoplasmic reticulum-Golgi intermediate compartment Golgi apparatus  cis-Golgi network,12q23.1,SCY1-like protein 2 
+SG196_HUMAN,Q9H5K3,POMK,Protein kinase superfamily  Ser/Thr protein kinase family  STKL subfamily,Endoplasmic reticulum membrane Single-pass type II membrane protein,,Protein O-mannose kinase 
+SGK1_HUMAN,O00141,SGK1,Protein kinase superfamily  AGC Ser/Thr protein kinase family,Cell junction  synapse  synaptosome Mitochondrion outer membrane. Mitochondrion.,6q23.2,Serine/threonine-protein kinase Sgk1  
+SGK2_HUMAN,Q9HBY8,SGK2,Protein kinase superfamily  AGC Ser/Thr protein kinase family,Cytoplasm Nucleus,20q13.12,Serine/threonine-protein kinase Sgk2  
+SGK3_HUMAN,Q96BR1,SGK3,Protein kinase superfamily  AGC Ser/Thr protein kinase family,Cytoplasmic vesicle Early endosome. Recycling endosome.,8q13.1,Serine/threonine-protein kinase Sgk3  
+SIK1_HUMAN,P57059,SIK1,Protein kinase superfamily  CAMK Ser/Thr protein kinase family  AMPK subfamily,Cytoplasm Nucleus,21q22.3,Serine/threonine-protein kinase SIK1  
+SIK2_HUMAN,Q9H0K1,SIK2,Protein kinase superfamily  CAMK Ser/Thr protein kinase family  SNF1 subfamily,Cytoplasm,11q23.1,Serine/threonine-protein kinase SIK2  
+SIK3_HUMAN,Q9Y2K2,SIK3,Protein kinase superfamily  CAMK Ser/Thr protein kinase family  SNF1 subfamily,Cytoplasm,11q23.3,Serine/threonine-protein kinase SIK3  
+SLK_HUMAN,Q9H2G2,SLK,Protein kinase superfamily  STE Ser/Thr protein kinase family  STE20 subfamily,Cytoplasm,10q24.33-q25.1,STE20-like serine/threonine-protein kinase 
+SMG1_HUMAN,Q96Q15,SMG1,PI3/PI4-kinase family,Nucleus Cytoplasm,16p12.3,Serine/threonine-protein kinase SMG1 
+SNRK_HUMAN,Q9NRH2,SNRK,Protein kinase superfamily  CAMK Ser/Thr protein kinase family,Nucleus,3p22.1,SNF-related serine/threonine-protein kinase  
+SPEG_HUMAN,Q15772,SPEG,Protein kinase superfamily  CAMK Ser/Thr protein kinase family,Nucleus,2q35,Striated muscle preferentially expressed protein kinase  
+SRC_HUMAN,P12931,SRC,Protein kinase superfamily  Tyr protein kinase family  SRC subfamily,Cell membrane Mitochondrion inner membrane Nucleus Cytoplasm  cytoskeleton Cytoplasm  perinuclear region,20q11.23,Proto-oncogene tyrosine-protein kinase Src  
+SRMS_HUMAN,Q9H3Y6,SRMS,Protein kinase superfamily  Tyr protein kinase family  SRC subfamily,Cytoplasm,-,Tyrosine-protein kinase Srms 
+SRPK1_HUMAN,Q96SB4,SRPK1,Protein kinase superfamily  CMGC Ser/Thr protein kinase family,Nucleus Cytoplasm,6p21.31,SRSF protein kinase 1  
+SRPK2_HUMAN,P78362,SRPK2,Protein kinase superfamily  CMGC Ser/Thr protein kinase family,Nucleus Cytoplasm,7q22.3,SRSF protein kinase 2  
+SRPK3_HUMAN,Q9UPE1,SRPK3,Protein kinase superfamily  CMGC Ser/Thr protein kinase family,Nucleus Cytoplasm,Xq28,SRSF protein kinase 3  
+ST17A_HUMAN,Q9UEE5,STK17A,Protein kinase superfamily  CAMK Ser/Thr protein kinase family  DAP kinase subfamily,Nucleus,7p13,Serine/threonine-protein kinase 17A  
+ST17B_HUMAN,O94768,STK17B,Protein kinase superfamily  CAMK Ser/Thr protein kinase family  DAP kinase subfamily,Nucleus Cell membrane Endoplasmic reticulum-Golgi intermediate compartment,2q32.3,Serine/threonine-protein kinase 17B  
+ST32A_HUMAN,Q8WU08,STK32A,Protein kinase superfamily  Ser/Thr protein kinase family,Cell membrane; Lipid-anchor,5q32,Serine/threonine-protein kinase 32A  
+ST32B_HUMAN,Q9NY57,STK32B,Protein kinase superfamily  Ser/Thr protein kinase family,Cell membrane; Lipid-anchor,4p16.2,Serine/threonine-protein kinase 32B  
+ST32C_HUMAN,Q86UX6,STK32C,Protein kinase superfamily  Ser/Thr protein kinase family,Cell membrane; Lipid-anchor,10q26.3,Serine/threonine-protein kinase 32C  
+ST38L_HUMAN,Q9Y2H1,STK38L,Protein kinase superfamily  AGC Ser/Thr protein kinase family,Cytoplasmic vesicle Early endosome. Recycling endosome.,12p11.23,Serine/threonine-protein kinase 38-like  
+STK10_HUMAN,O94804,STK10,Protein kinase superfamily  STE Ser/Thr protein kinase family  STE20 subfamily,Cell membrane Peripheral membrane protein,5q35.1,Serine/threonine-protein kinase 10  
+STK11_HUMAN,Q15831,STK11,Protein kinase superfamily  CAMK Ser/Thr protein kinase family  LKB1 subfamily,Nucleus. Cytoplasm. Membrane Mitochondrion.,19p13.3,Serine/threonine-protein kinase STK11  
+STK16_HUMAN,O75716,STK16,Protein kinase superfamily  Ser/Thr protein kinase family,Cytoplasm  perinuclear region. Membrane Lipid-anchor,2q35,Serine/threonine-protein kinase 16  
+STK24_HUMAN,Q9Y6E0,STK24,Protein kinase superfamily  STE Ser/Thr protein kinase family  STE20 subfamily,Cell membrane Peripheral membrane protein,13q32.2,Serine/threonine-protein kinase 24  
+STK25_HUMAN,O00506,STK25,Protein kinase superfamily  STE Ser/Thr protein kinase family  STE20 subfamily,Cytoplasm Golgi apparatus,2q37.3,Serine/threonine-protein kinase 25  
+STK26_HUMAN,Q9P289,STK26,Protein kinase superfamily  STE Ser/Thr protein kinase family  STE20 subfamily,Cytoplasm Golgi apparatus,Xq26.2,Serine/threonine-protein kinase 26  
+STK3_HUMAN,Q13188,STK3,Protein kinase superfamily  STE Ser/Thr protein kinase family  STE20 subfamily,Cytoplasm Nucleus,8q22.2,Serine/threonine-protein kinase 3  
+STK31_HUMAN,Q9BXU1,STK31,Protein kinase superfamily  Ser/Thr protein kinase family,Cytoplasm  perinuclear region. Membrane Lipid-anchor,7p15.3,Serine/threonine-protein kinase 31  
+STK33_HUMAN,Q9BYT3,STK33,Protein kinase superfamily  CAMK Ser/Thr protein kinase family  CaMK subfamily,Cytoplasm  perinuclear region,11p15.4,Serine/threonine-protein kinase 33 
+STK35_HUMAN,Q8TDR2,STK35,Protein kinase superfamily  Ser/Thr protein kinase family,Cell membrane; Lipid-anchor,20p13,Serine/threonine-protein kinase 35  
+STK36_HUMAN,Q9NRP7,STK36,Protein kinase superfamily  Ser/Thr protein kinase family,Cytoplasm Nucleus,2q35,Serine/threonine-protein kinase 36  
+STK38_HUMAN,Q15208,STK38,Protein kinase superfamily  AGC Ser/Thr protein kinase family,Cytoplasmic vesicle Early endosome. Recycling endosome.,6p21.31,Serine/threonine-protein kinase 38  
+STK39_HUMAN,Q9UEW8,STK39,Protein kinase superfamily  STE Ser/Thr protein kinase family  STE20 subfamily,Cytoplasm Nucleus,2q24.3,STE20/SPS1-related proline-alanine-rich protein kinase 
+STK4_HUMAN,Q13043,STK4,Protein kinase superfamily  STE Ser/Thr protein kinase family  STE20 subfamily,Cytoplasm Nucleus,20q13.12,Serine/threonine-protein kinase 4  
+STK40_HUMAN,Q8N2I9,STK40,Protein kinase superfamily  CAMK Ser/Thr protein kinase family,Nucleus Cytoplasm,1p34.3,Serine/threonine-protein kinase 40  
+STKL1_HUMAN,Q8NE28,STKLD1,Protein kinase superfamily  Ser/Thr protein kinase family  STKL subfamily,Cytoplasm Nucleus,9q34.2,Serine/threonine kinase-like domain-containing protein STKLD1 
+STRAA_HUMAN,Q7RTN6,STRADA,Protein kinase superfamily  STE Ser/Thr protein kinase family  STE20 subfamily,Nucleus Cytoplasm,17q23.3,STE20-related kinase adapter protein alpha 
+STRAB_HUMAN,Q9C0K7,STRADB,Protein kinase superfamily  STE Ser/Thr protein kinase family  STE20 subfamily,Nucleus Cytoplasm,2q33.1,STE20-related kinase adapter protein beta 
+STYK1_HUMAN,Q6J9G0,STYK1,Protein kinase superfamily  Tyr protein kinase family,Membrane Single-pass membrane protein,12p13.2,Tyrosine-protein kinase STYK1  
+TAOK1_HUMAN,Q7L7X3,TAOK1,Protein kinase superfamily  STE Ser/Thr protein kinase family  STE20 subfamily,Cytoplasm,17q11.2,Serine/threonine-protein kinase TAO1  
+TAOK2_HUMAN,Q9UL54,TAOK2,Protein kinase superfamily  STE Ser/Thr protein kinase family  STE20 subfamily,Cytoplasmic vesicle membrane Multi-pass membrane protein Cytoplasm  cytoskeleton. Nucleus.,16p11.2,Serine/threonine-protein kinase TAO2  
+TAOK3_HUMAN,Q9H2K8,TAOK3,Protein kinase superfamily  STE Ser/Thr protein kinase family  STE20 subfamily,Cytoplasm Cell membrane Peripheral membrane protein,12q24.23,Serine/threonine-protein kinase TAO3  
+TBCK_HUMAN,Q8TEA7,TBCK,Protein kinase superfamily,Cytoplasm Cytoplasm  cytoskeleton  spindle Midbody,4q24,TBC domain-containing protein kinase-like protein
+TBK1_HUMAN,Q9UHD2,TBK1,Protein kinase superfamily  Ser/Thr protein kinase family  I-kappa-B kinase subfamily,Cytoplasm,12q14.2,Serine/threonine-protein kinase TBK1  
+TEC_HUMAN,P42680,TEC,Protein kinase superfamily  Tyr protein kinase family  TEC subfamily,Cell membrane Cytoplasm  cytosol,4p12-p11,Tyrosine-protein kinase Tec 
+TESK1_HUMAN,Q15569,TESK1,Protein kinase superfamily  TKL Ser/Thr protein kinase family,Cytoplasm. Membrane Peripheral membrane protein,9p13.3,Dual specificity testis-specific protein kinase 1  
+TESK2_HUMAN,Q96S53,TESK2,Protein kinase superfamily  TKL Ser/Thr protein kinase family,Nucleus,1p34.1,Dual specificity testis-specific protein kinase 2  
+TEX14_HUMAN,Q8IWB6,TEX14,Protein kinase superfamily,Cytoplasm Midbody Chromosome  centromere  kinetochore,17q22,Inactive serine/threonine-protein kinase TEX14 
+TGFR1_HUMAN,P36897,TGFBR1,Protein kinase superfamily  TKL Ser/Thr protein kinase family  TGFB receptor subfamily,Cell membrane Single-pass type I membrane protein Cell junction  tight junction Cell surface Membrane raft,9q22.33,TGF-beta receptor type-1 
+TGFR2_HUMAN,P37173,TGFBR2,Protein kinase superfamily  TKL Ser/Thr protein kinase family  TGFB receptor subfamily,Cell membrane Single-pass type I membrane protein Membrane raft,3p24.1,TGF-beta receptor type-2 
+TIE1_HUMAN,P35590,TIE1,Protein kinase superfamily  Tyr protein kinase family  Tie subfamily,Cell membrane Single-pass type I membrane protein,1p34.2,Tyrosine-protein kinase receptor Tie-1 
+TIE2_HUMAN,Q02763,TEK,Protein kinase superfamily  Tyr protein kinase family  Tie subfamily,Cell membrane Single-pass type I membrane protein. Cell junction Cell junction  focal adhesion Cytoplasm  cytoskeleton. Secreted,9p21.2,Angiopoietin-1 receptor  
+TIP_SHV24,P25049,UNAVAILABLE,UNAVAILABLE,Host cell membrane Single-pass membrane protein,,Tyrosine-protein kinase-interacting protein 
+TIP_SHV2C,P22575,UNAVAILABLE,UNAVAILABLE,Host cell membrane Single-pass membrane protein,,Tyrosine-protein kinase-interacting protein 
+TIP_SHV48,P88825,UNAVAILABLE,UNAVAILABLE,Host cell membrane Single-pass membrane protein,,Tyrosine protein kinase-interacting protein 
+TITIN_HUMAN,Q8WZ42,TTN,Protein kinase superfamily  CAMK Ser/Thr protein kinase family,Cytoplasm Nucleus,2q31.2,Titin  
+TLK1_HUMAN,Q9UKI8,TLK1,Protein kinase superfamily  Ser/Thr protein kinase family,Nucleus,2q31.1,Serine/threonine-protein kinase tousled-like 1  
+TLK2_HUMAN,Q86UE8,TLK2,Protein kinase superfamily  Ser/Thr protein kinase family,Nucleus,17q23.2,Serine/threonine-protein kinase tousled-like 2  
+TNI3K_HUMAN,Q59H18,TNNI3K,Protein kinase superfamily  TKL Ser/Thr protein kinase family  MAP kinase kinase kinase subfamily,Nucleus Cytoplasm,1p31.1,Serine/threonine-protein kinase TNNI3K  
+TNIK_HUMAN,Q9UKE5,TNIK,Protein kinase superfamily  STE Ser/Thr protein kinase family  STE20 subfamily,Cytoplasm Cell membrane Peripheral membrane protein,3q26.2-q26.31,TRAF2 and NCK-interacting protein kinase 
+TNK1_HUMAN,Q13470,TNK1,Protein kinase superfamily  Tyr protein kinase family,Cytoplasm Membrane Peripheral membrane protein,17p13.1,Non-receptor tyrosine-protein kinase TNK1  
+TNKS1_HUMAN,O95271,TNKS,UNAVAILABLE,Cytoplasm Golgi apparatus membrane Peripheral membrane protein Cytoplasm  cytoskeleton  microtubule organizing center  centrosome Nucleus  nuclear pore complex Chromosome  telomere Cytoplasm  cytoskeleton  spindle pole,8p23.1,Poly [ADP-ribose] polymerase tankyrase-1  
+TOPK_HUMAN,Q96KB5,PBK,Protein kinase superfamily  STE Ser/Thr protein kinase family  MAP kinase kinase subfamily,Cytoplasm,8p21.1,Lymphokine-activated killer T-cell-originated protein kinase  
+TRIB1_HUMAN,Q96RU8,TRIB1,Protein kinase superfamily  CAMK Ser/Thr protein kinase family  Tribbles subfamily,Nucleus Cytoplasm,8q24.13,Tribbles homolog 1 
+TRIB2_HUMAN,Q92519,TRIB2,Protein kinase superfamily  CAMK Ser/Thr protein kinase family  Tribbles subfamily,Cytoplasm Cytoplasm  cytoskeleton,2p24.3,Tribbles homolog 2 
+TRIB3_HUMAN,Q96RU7,TRIB3,Protein kinase superfamily  CAMK Ser/Thr protein kinase family  Tribbles subfamily,Nucleus,20p13,Tribbles homolog 3 
+TRIO_HUMAN,O75962,TRIO,Protein kinase superfamily  CAMK Ser/Thr protein kinase family,Cytoplasm,5p15.2,Triple functional domain protein  
+TRPM6_HUMAN,Q9BX84,TRPM6,Protein kinase superfamily  Alpha-type protein kinase family  ALPK subfamily; Transient receptor (TC 1.A.4) family  LTrpC subfamily  TRPM6 sub-subfamily,Cell membrane Multi-pass membrane protein.,9q21.13,Transient receptor potential cation channel subfamily M member 6  
+TRPM7_HUMAN,Q96QT4,TRPM7,Protein kinase superfamily  Alpha-type protein kinase family  ALPK subfamily; Transient receptor (TC 1.A.4) family  LTrpC subfamily  TRPM7 sub-subfamily,Membrane Multi-pass membrane protein,15q21.2,Transient receptor potential cation channel subfamily M member 7  
+TSSK1_HUMAN,Q9BXA7,TSSK1B,Protein kinase superfamily  CAMK Ser/Thr protein kinase family,Cytoplasm Cytoplasmic vesicle  secretory vesicle  acrosome Cell projection  cilium  flagellum,5q22.2,Testis-specific serine/threonine-protein kinase 1 
+TSSK2_HUMAN,Q96PF2,TSSK2,Protein kinase superfamily  CAMK Ser/Thr protein kinase family,Cytoplasm Cytoplasm  cytoskeleton  microtubule organizing center  centrosome  centriole,22q11.21,Testis-specific serine/threonine-protein kinase 2 
+TSSK3_HUMAN,Q96PN8,TSSK3,Protein kinase superfamily  CAMK Ser/Thr protein kinase family,Cytoplasm Cytoplasm  cytoskeleton  microtubule organizing center  centrosome  centriole,1p35.1,Testis-specific serine/threonine-protein kinase 3 
+TSSK4_HUMAN,Q6SA08,TSSK4,Protein kinase superfamily  CAMK Ser/Thr protein kinase family,Cytoplasmic vesicle  secretory vesicle  acrosome Cell projection  cilium  flagellum,14q12,Testis-specific serine/threonine-protein kinase 4 
+TSSK6_HUMAN,Q9BXA6,TSSK6,Protein kinase superfamily  CAMK Ser/Thr protein kinase family,Cytoplasmic vesicle  secretory vesicle  acrosome Cell projection  cilium  flagellum,,Testis-specific serine/threonine-protein kinase 6 
+TTBK1_HUMAN,Q5TCY1,TTBK1,Protein kinase superfamily  CK1 Ser/Thr protein kinase family,Cytoplasm,6p21.1,Tau-tubulin kinase 1  
+TTBK2_HUMAN,Q6IQ55,TTBK2,Protein kinase superfamily  CK1 Ser/Thr protein kinase family,Cell projection  cilium Cytoplasm  cytoskeleton  cilium basal body Cytoplasm  cytoskeleton  microtubule organizing center  centrosome  centriole. Cytoplasm  cytosol. Nucleus.,15q15.2,Tau-tubulin kinase 2 
+TTK_HUMAN,P33981,TTK,Protein kinase superfamily  Ser/Thr protein kinase family,Cytoplasm Nucleus,6q14.1,Dual specificity protein kinase TTK  
+TXK_HUMAN,P42681,TXK,Protein kinase superfamily  Tyr protein kinase family  TEC subfamily,Cytoplasm Nucleus Cell membrane Peripheral membrane protein,4p12,Tyrosine-protein kinase TXK  
+TYK2_HUMAN,P29597,TYK2,Protein kinase superfamily  Tyr protein kinase family  JAK subfamily,Cytoplasm Nucleus Cell membrane Peripheral membrane protein,19p13.2,Non-receptor tyrosine-protein kinase TYK2 
+TYRO3_HUMAN,Q06418,TYRO3,Protein kinase superfamily  Tyr protein kinase family  AXL/UFO subfamily,Cytoplasm Nucleus Cell membrane Peripheral membrane protein,15q15.1,Tyrosine-protein kinase receptor TYRO3  
+UFO_HUMAN,P30530,AXL,Protein kinase superfamily  Tyr protein kinase family  AXL/UFO subfamily,Cell membrane Single-pass type I membrane protein,19q13.2,Tyrosine-protein kinase receptor UFO  
+UHMK1_HUMAN,Q8TAS1,UHMK1,Protein kinase superfamily  Ser/Thr protein kinase family,Nucleus,1q23.3,Serine/threonine-protein kinase Kist  
+ULK1_HUMAN,O75385,ULK1,Protein kinase superfamily  Ser/Thr protein kinase family  APG1/unc-51/ULK1 subfamily,Cytoplasm  cytosol Preautophagosomal structure,12q24.33,Serine/threonine-protein kinase ULK1  
+ULK2_HUMAN,Q8IYT8,ULK2,Protein kinase superfamily  Ser/Thr protein kinase family  APG1/unc-51/ULK1 subfamily,Cytoplasmic vesicle membrane Peripheral membrane protein,17p11.2,Serine/threonine-protein kinase ULK2  
+ULK3_HUMAN,Q6PHR2,ULK3,Protein kinase superfamily  Ser/Thr protein kinase family  APG1/unc-51/ULK1 subfamily,Cytoplasm,15q24.1,Serine/threonine-protein kinase ULK3  
+ULK4_HUMAN,Q96C45,ULK4,Protein kinase superfamily  Ser/Thr protein kinase family  APG1/unc-51/ULK1 subfamily,Cytoplasm,3p22.1,Serine/threonine-protein kinase ULK4  
+VGFR1_HUMAN,P17948,FLT1,Protein kinase superfamily  Tyr protein kinase family  CSF-1/PDGF receptor subfamily,Cell membrane Lipid-anchor Cytoplasmic side Cell membrane; Peripheral membrane protein; Cytoplasmic side. Cell projection  ruffle membrane. Cytoplasm  cytosol. Cytoplasm  cytoskeleton. Mitochondrion inner membrane Mitochondrion intermembrane space,13q12.3,Vascular endothelial growth factor receptor 1 
+VGFR2_HUMAN,P35968,KDR,Protein kinase superfamily  Tyr protein kinase family  CSF-1/PDGF receptor subfamily,Cell junction Endoplasmic reticulum,4q12,Vascular endothelial growth factor receptor 2 
+VGFR3_HUMAN,P35916,FLT4,Protein kinase superfamily  Tyr protein kinase family  CSF-1/PDGF receptor subfamily,Cell membrane Single-pass type I membrane protein. Cytoplasm Nucleus,5q35.3,Vascular endothelial growth factor receptor 3 
+VRK1_HUMAN,Q99986,VRK1,Protein kinase superfamily  CK1 Ser/Thr protein kinase family  VRK subfamily,Cytoplasm. Nucleus. Cytoplasm  cytoskeleton  spindle,14q32.2,Serine/threonine-protein kinase VRK1  
+VRK2_HUMAN,Q86Y07,VRK2,Protein kinase superfamily  CK1 Ser/Thr protein kinase family  VRK subfamily,Isoform 1: Cytoplasm. Endoplasmic reticulum membrane Single-pass type IV membrane protein Mitochondrion membrane Single-pass type IV membrane protein,2p16.1,Serine/threonine-protein kinase VRK2  
+VRK3_HUMAN,Q8IV63,VRK3,Protein kinase superfamily  CK1 Ser/Thr protein kinase family  VRK subfamily,Nucleus,19q13.33,Inactive serine/threonine-protein kinase VRK3 
+WEE1_HUMAN,P30291,WEE1,Protein kinase superfamily  Ser/Thr protein kinase family  WEE1 subfamily,Cytoplasm,11p15.4,Wee1-like protein kinase 
+WEE2_HUMAN,P0C1S8,WEE2,Protein kinase superfamily  Ser/Thr protein kinase family  WEE1 subfamily,Nucleus,7q34,Wee1-like protein kinase 2  
+WNK1_HUMAN,Q9H4A3,WNK1,Protein kinase superfamily  Ser/Thr protein kinase family  WNK subfamily,Cytoplasm,12p13.33,Serine/threonine-protein kinase WNK1  
+WNK2_HUMAN,Q9Y3S1,WNK2,Protein kinase superfamily  Ser/Thr protein kinase family  WNK subfamily,Cytoplasm Cell membrane,9q22.31,Serine/threonine-protein kinase WNK2  
+WNK3_HUMAN,Q9BYP7,WNK3,Protein kinase superfamily  Ser/Thr protein kinase family  WNK subfamily,Cytoplasm,Xp11.22,Serine/threonine-protein kinase WNK3  
+WNK4_HUMAN,Q96J92,WNK4,Protein kinase superfamily  Ser/Thr protein kinase family  WNK subfamily,Cell junction  tight junction,17q21.2,Serine/threonine-protein kinase WNK4  
+YES_HUMAN,P07947,YES1,Protein kinase superfamily  Tyr protein kinase family  SRC subfamily,Cytoplasm Nucleus Cell membrane Peripheral membrane protein,18p11.32,Tyrosine-protein kinase Yes  
+ZAP70_HUMAN,P43403,ZAP70,Protein kinase superfamily  Tyr protein kinase family  SYK/ZAP-70 subfamily,Cytoplasm Cell membrane Peripheral membrane protein,2q11.2,Tyrosine-protein kinase ZAP-70  
+AAKG2_HUMAN,Q9UGJ0,PRKAG2, 5'-AMP-activated protein kinase gamma subunit family,Cytosol,7q36.1,5'-AMP-activated protein kinase subunit gamma-2
+BAZ1B_HUMAN,Q9UIG0,BAZ1B,WAL family. BAZ1B subfamily,Nucleus,7q11.23,Tyrosine-protein kinase BAZ1B
+BCR_HUMAN,P11274,BCR,n/a,Plasma membrane,22q11.23,Breakpoint cluster region protein
+BIEA_HUMAN,P53004,BLVRA,Gfo/Idh/MocA family. Biliverdin reductase subfamily.,Cytoplasm,7p13,Biliverdin reductase A
+BRD4_HUMAN,O60885,BRD4,n/a,Nucleus,19p13.12,Bromodomain-containing protein 4
+C43BP_HUMAN,Q9Y5P4,COL4A3BP,n/a,"Endoplasmic reticulum, Golgi apparatus",5q13.3,Collagen type IV alpha-3-binding protein
+CRP_HUMAN,P02741,CRP,pentraxin family,Extracellular,1q23.2,C-reactive protein
+E7E8T7_HUMAN,E7E8T7,BCR-ABL1,n/a,n/a,n/a,BCR-ABL1 e8a2 variant
+ENPP3_HUMAN,O14638,ENPP3,nucleotide pyrophosphatase/phosphodiesterase family,"Plasma membrane, extracellular",6q23.2,Ectonucleotide pyrophosphatase/phosphodiesterase family member 3
+FA20C_HUMAN,Q8IXL6,FAM20C,FAM20 family,"Golgi apparatus, extracellular",7p22.3,Extracellular serine/threonine protein kinase FAM20C
+FYV1_HUMAN,Q9Y2I7,PIKFYVE,n/a,Endosome,2q34,1-phosphatidylinositol 3-phosphate 5-kinase
+KPCH_HUMAN,n/a,n/a,n/a,n/a,n/a,n/a
+KPYM_HUMAN,P14618,PKM,pyruvate kinase family,Nucleus,15q23,Pyruvate kinase PKM
+NDKA_HUMAN,P15531,NME1,NDK family,Nucleus,17q21.33,Nucleoside diphosphate kinase A
+NDKB_HUMAN,P22392,NME2,NDK family,Nucleus,17q21.33,Nucleoside diphosphate kinase B
+NIPA_HUMAN,Q86WB0,ZC3HC1,NIPA family,n/a,7q32.2,Magnesium transporter NIPA4
+PGK1_HUMAN,P00558,PGK1,phosphoglycerate kinase family,n/a,Xq21.1,Phosphoglycerate kinase 1
+T2FA_HUMAN,P35269,GTF2F1,TFIIF alpha subunit family,Nucleus,19p13.3,General transcription factor IIF subunit 1
+TAF1_HUMAN,P21675,TAF1,TAF1 family,Nucleus,Xq13.1,Transcription initiation factor TFIID subunit 1
+TGM2_HUMAN,P21980,TGM2,transglutaminase superfamily. Transglutaminase family,"Cytosol, Endoplasmic reticulum, extracellular, mitochondrion, plasma membrane",20q11.23,Protein-glutamine gamma-glutamyltransferase 2
