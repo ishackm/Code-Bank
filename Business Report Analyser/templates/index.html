@@ -1,0 +1,192 @@
+
+{% extends "base_index.html" %}
+
+{% block content %}
+
+{% block body %}
+
+
+<!-- The About section -->
+  <section id="about">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <h2 class="section-heading text-uppercase">Mission</h2>
+          <h3 class="section-subheading text-muted" style="font-size: 20px">The mission of The Falsone Protein Database is to provide the scientific community with a freely accessible information on protein kinases, the phosphosites they relate to as well as human kinase inhibitors. Quantitative phosphoproteomics analysis allows users to process thier own experimental data to get a summary of the relative activity of human kinases in their dataset, among other information.</h3>
+
+
+
+
+      </div>
+    </div>
+  </section>
+
+    <!-- The Features section -->
+    <section id="services">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12 text-center">
+            <h2 class="section-heading text-uppercase">Features</h2>
+          </div>
+        </div>
+      </div>
+
+      <!-- The Search Kinase section -->
+         <div class="row text-center">
+          <div class="col-md-4">
+          <img src="/static/img/kinase.png" alt="Girl in a onci" style="width:80px;height:90px;">
+
+            <h4 class="service-heading">Search Kinases </h4>
+
+            <p class="text-muted">Discover background information on any known human kinase, including all sites they are known to phosphorylate and any inhibitor information if available. Browse phosphosite information relative to that kinase, including residue/position and neighbouring sequence. </p>
+            <a class="btn btn-primary" href=# role="button">Please Click Here</a>
+          </div>
+
+          <!-- The Search Inhibitors section -->
+
+          <div class="col-md-4">
+          <img src="/static/img/inhibitor.png" alt="Girl in a onci" style="width:80px;height:90px;">
+            <h4 class="service-heading">Search Kinase Inhibitors</h4>
+            <p class="text-muted">Discover background information on all known inhibitors of human protein kinases, including their name, chemical structure and the kinases they are known to inhibit.</p>
+              <a class="btn btn-primary" href="{{ url_for('inhibitor_search') }}" role="button">Please Click Here</a>
+          </div>
+
+
+          <!-- The Phosphoproteomics section -->
+
+          <div class="col-md-4">
+          <img src="/static/img/upload.png" alt="Girl in a onci" style="width:80px;height:90px;">
+            <h4 class="service-heading">Upload your Phosphoproteomics dataset</h4>
+            <p class="text-muted">Upload your phosphophroteomics data to receive a graphical summmary of your results and the relative activity of all human kinases represented in the dataset.</p>
+            <a class="btn btn-primary" href="{{ url_for('upload') }}" role="button">Please Click Here</a>
+        </div>
+
+
+      </div>
+    </section>
+
+  </section>
+
+
+  <!-- The Team section -->
+  <section class="bg-light" id="team">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <h2 class="section-heading text-uppercase">Meet the team</h2>
+          <h3 class="section-subheading text-muted">Team Falsone is a 4-member team of MSc in Bioinformatics students at the School of Biological Sciences and Chemistry at Queen Mary University Of London.</h3>
+        </div>
+      </div>
+
+      <!-- The Team members -->
+
+      <div class="row">
+        <div class="col-sm-4">
+          <div class="team-member">
+            <img class="mx-auto rounded-circle" src="/static/img/team/fatma_team_pic.jpg" alt="">
+            <h4>Fatma</h4>
+            <p class="text-muted"></p>
+            <ul class="list-inline social-buttons">
+              <li class="list-inline-item">
+                <a href="#">
+                  <i class="fab fa-twitter"></i>
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a href="#">
+                  <i class="fab fa-facebook-f"></i>
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a href="#">
+                  <i class="fab fa-linkedin-in"></i>
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="col-sm-4">
+          <div class="team-member">
+            <img class="mx-auto rounded-circle" src="/static/img/team/josie_team_pic.jpg" alt="">
+            <h4>Josie</h4>
+            <p class="text-muted"></p>
+            <ul class="list-inline social-buttons">
+              <li class="list-inline-item">
+                <a href="#">
+                  <i class="fab fa-twitter"></i>
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a href="#">
+                  <i class="fab fa-facebook-f"></i>
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a href="https://www.linkedin.com/in/josephine-mensah-kane-518401171/">
+                  <i class="fab fa-linkedin-in"></i>
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+
+
+           <div class="col-sm-4">
+          <div class="team-member">
+            <img class="mx-auto rounded-circle" src="/static/img/team/3.jpg" alt="">
+            <h4>Ishack</h4>
+            <p class="text-muted"></p>
+            <ul class="list-inline social-buttons">
+              <li class="list-inline-item">
+                <a href="#">
+                  <i class="fab fa-twitter"></i>
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a href="#">
+                  <i class="fab fa-facebook-f"></i>
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a href="https://www.linkedin.com/in/ishackm/">
+                  <i class="fab fa-linkedin-in"></i>
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+
+
+        <div class="col-sm-4">
+          <div class="team-member">
+            <img class="mx-auto rounded-circle" src="/static/img/team/richard_team_pic.jpg" alt="">
+            <h4>Richard</h4>
+            <p class="text-muted"></p>
+            <ul class="list-inline social-buttons">
+              <li class="list-inline-item">
+                <a href="#">
+                  <i class="fab fa-twitter"></i>
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a href="#">
+                  <i class="fab fa-facebook-f"></i>
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a href="https://www.linkedin.com/in/richard-burns-ba24b713a/">
+                  <i class="fab fa-linkedin-in"></i>
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+
+    {% endblock %}
+
+
+
+{% endblock %}
