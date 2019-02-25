@@ -1,192 +1,366 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>unapp Template</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="" />
+	<meta name="keywords" content="" />
+	<meta name="author" content="" />
 
-{% extends "base_index.html" %}
+  <!-- Facebook and Twitter integration -->
+	<meta property="og:title" content=""/>
+	<meta property="og:image" content=""/>
+	<meta property="og:url" content=""/>
+	<meta property="og:site_name" content=""/>
+	<meta property="og:description" content=""/>
+	<meta name="twitter:title" content="" />
+	<meta name="twitter:image" content="" />
+	<meta name="twitter:url" content="" />
+	<meta name="twitter:card" content="" />
 
-{% block content %}
+	<link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Nunito:200,300,400" rel="stylesheet">
 
-{% block body %}
+	<!-- Animate.css -->
+	<link rel="stylesheet" href="/static/css/animate.css">
+	<!-- Icomoon Icon Fonts-->
+	<link rel="stylesheet" href="/static/css/icomoon.css">
+	<!-- Bootstrap  -->
+	<link rel="stylesheet" href="/static/css/bootstrap.css">
+
+	<!-- Magnific Popup -->
+	<link rel="stylesheet" href="/static/css/magnific-popup.css">
+
+	<!-- Owl Carousel -->
+	<link rel="stylesheet" href="/static/css/owl.carousel.min.css">
+	<link rel="stylesheet" href="/static/css/owl.theme.default.min.css">
+
+	<!-- Theme style  -->
+	<link rel="stylesheet" href="/static/css/style.css">
+
+	<!-- Modernizr JS -->
+	<script src="/static/js/modernizr-2.6.2.min.js"></script>
+	<script src="/static/js/respond.min.js"></script>
+
+	</head>
+	<body>
+
+	<div class="colorlib-loader"></div>
+
+	<div id="page">
+		<nav class="colorlib-nav" role="navigation">
+			<div class="top-menu">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-2">
+							<div id="colorlib-logo"><a href="index.html">Unapp</a></div>
+						</div>
+						<div class="col-md-10 text-right menu-1">
+							<ul>
+								<li class="active"><a href="index.html">Home</a></li>
+								<li class="has-dropdown">
+									<a href="work.html">Works</a>
+									<ul class="dropdown">
+										<li><a href="work-grid.html">Works grid with text</a></li>
+										<li><a href="work-grid-without-text.html">Works grid w/o text</a></li>
+									</ul>
+								</li>
+								<li><a href="/">Services</a></li>
+								<li><a href="blog.html">Blog</a></li>
+								<li><a href="about.html">About</a></li>
+								<li><a href="shop.html">Shop</a></li>
+								<li><a href="contact.html">Contact</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</nav>
+
+		<section id="home" class="video-hero" style="height: 700px; background-image: url(/static/images/cover_img_1.jpg);  background-size:cover; background-position: center center;background-attachment:fixed;" data-section="home">
+		<div class="overlay"></div>
+			<a class="player" data-property="{videoURL:'https://www.youtube.com/watch?v=vqqt5p0q-eU',containment:'#home', showControls:false, autoPlay:true, loop:true, mute:true, startAt:0, opacity:1, quality:'default'}"></a>
+			<div class="display-t text-center">
+				<div class="display-tc">
+					<div class="container">
+						<div class="col-md-12 col-md-offset-0">
+							<div class="animate-box">
+								<h2>Take on your biggest projects and goals</h2>
+								<p>with Unapp's high quality features</p>
+								<p><a href="gallery.html" class="btn btn-primary btn-lg btn-custom">Get premium</a></p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<div class="colorlib-featured">
+			<div class="row animate-box">
+				<div class="featured-wrap">
+					<div class="owl-carousel">
+						<div class="item">
+							<div class="col-md-8 col-md-offset-2">
+								<div class="featured-entry">
+									<img class="img-responsive" src="/static/images/dashboard_full_1.jpg" alt="">
+								</div>
+							</div>
+						</div>
+						<div class="item">
+							<div class="col-md-8 col-md-offset-2">
+								<div class="featured-entry">
+									<img class="img-responsive" src="/static/images/dashboard_full_2.jpg" alt="">
+								</div>
+							</div>
+						</div>
+						<div class="item">
+							<div class="col-md-8 col-md-offset-2">
+								<div class="featured-entry">
+									<img class="img-responsive" src="/static/images/dashboard_full_3.jpg" alt="">
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="colorlib-services colorlib-bg-white">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-4 text-center animate-box">
+						<div class="services">
+							<span class="icon">
+								<i class="icon-browser"></i>
+							</span>
+							<div class="desc">
+								<h3>Create your own template</h3>
+								<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 text-center animate-box">
+						<div class="services">
+							<span class="icon">
+								<i class="icon-download"></i>
+							</span>
+							<div class="desc">
+								<h3>Automatic Backup Data</h3>
+								<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 text-center animate-box">
+						<div class="services">
+							<span class="icon">
+								<i class="icon-layers"></i>
+							</span>
+							<div class="desc">
+								<h3>Page Builder</h3>
+								<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="colorlib-intro">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-8 col-md-offset-2 text-center colorlib-heading animate-box">
+						<h2>Collaborate with your design team in a new way</h2>
+						<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-12 animate-box">
+						<span class="play"><a href="https://vimeo.com/channels/staffpicks/93951774" class="pulse popup-vimeo"><i class="icon-play3"></i></a></span>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="colorlib-work-featured colorlib-bg-white">
+			<div class="container">
+				<div class="row mobile-wrap">
+					<div class="col-md-5 animate-box">
+						<div class="mobile-img" style="background-image: url(/static/images/mobile-2.jpg);"></div>
+					</div>
+					<div class="col-md-7 animate-box">
+						<div class="desc">
+							<h2>Real template creation</h2>
+							<div class="features">
+								<span class="icon"><i class="icon-lightbulb"></i></span>
+								<div class="f-desc">
+									<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+								</div>
+							</div>
+							<div class="features">
+								<span class="icon"><i class="icon-circle-compass"></i></span>
+								<div class="f-desc">
+									<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name</p>
+								</div>
+							</div>
+							<div class="features">
+								<span class="icon"><i class="icon-beaker"></i></span>
+								<div class="f-desc">
+									<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+								</div>
+							</div>
+							<p><a href="#" class="btn btn-primary btn-outline with-arrow">Start collaborating <i class="icon-arrow-right3"></i></a></p>
+						</div>
+					</div>
+				</div>
+				<div class="row mobile-wrap">
+					<div class="col-md-5 col-md-push-7 animate-box">
+						<div class="mobile-img" style="background-image: url(/static/images/mobile-1.jpg);"></div>
+					</div>
+					<div class="col-md-7 col-md-pull-5 animate-box">
+						<div class="desc">
+							<h2>Finish template creation</h2>
+							<div class="features">
+								<span class="icon"><i class="icon-lightbulb"></i></span>
+								<div class="f-desc">
+									<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+								</div>
+							</div>
+							<div class="features">
+								<span class="icon"><i class="icon-circle-compass"></i></span>
+								<div class="f-desc">
+									<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name</p>
+								</div>
+							</div>
+							<div class="features">
+								<span class="icon"><i class="icon-beaker"></i></span>
+								<div class="f-desc">
+									<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+								</div>
+							</div>
+							<p><a href="#" class="btn btn-primary btn-outline with-arrow">Start collaborating <i class="icon-arrow-right3"></i></a></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div id="colorlib-counter" class="colorlib-counters" style="background-image: url(/static/images/cover_img_1.jpg);" data-stellar-background-ratio="0.5">
+			<div class="overlay"></div>
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<div class="col-md-4 col-sm-4 text-center animate-box">
+							<div class="counter-entry">
+								<span class="icon"><i class="flaticon-ribbon"></i></span>
+								<div class="desc">
+									<span class="colorlib-counter js-counter" data-from="0" data-to="1500" data-speed="5000" data-refresh-interval="50"></span>
+									<span class="colorlib-counter-label">Of customers are satisfied with our professional support</span>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4 col-sm-4 text-center animate-box">
+							<div class="counter-entry">
+								<span class="icon"><i class="flaticon-church"></i></span>
+								<div class="desc">
+									<span class="colorlib-counter js-counter" data-from="0" data-to="500" data-speed="5000" data-refresh-interval="50"></span>
+									<span class="colorlib-counter-label">Amazing preset options to be mixed and combined</span>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4 col-sm-4 text-center animate-box">
+							<div class="counter-entry">
+								<span class="icon"><i class="flaticon-dove"></i></span>
+								<div class="desc">
+									<span class="colorlib-counter js-counter" data-from="0" data-to="1200" data-speed="5000" data-refresh-interval="50"></span>
+									<span class="colorlib-counter-label">Average response time on live chat support channel</span>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
 
 
-<!-- The About section -->
-  <section id="about">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-12 text-center">
-          <h2 class="section-heading text-uppercase">Mission</h2>
-          <h3 class="section-subheading text-muted" style="font-size: 20px">The mission of The Falsone Protein Database is to provide the scientific community with a freely accessible information on protein kinases, the phosphosites they relate to as well as human kinase inhibitors. Quantitative phosphoproteomics analysis allows users to process thier own experimental data to get a summary of the relative activity of human kinases in their dataset, among other information.</h3>
+
+		<footer id="colorlib-footer">
+			<div class="container">
+				<div class="row row-pb-md">
+					<div class="col-md-3 colorlib-widget">
+						<h4>About unapp</h4>
+						<p>Far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
+						<p>
+							<ul class="colorlib-social-icons">
+								<li><a href="#"><i class="icon-twitter"></i></a></li>
+								<li><a href="#"><i class="icon-facebook"></i></a></li>
+								<li><a href="#"><i class="icon-linkedin"></i></a></li>
+								<li><a href="#"><i class="icon-dribbble"></i></a></li>
+							</ul>
+						</p>
+					</div>
+					<div class="col-md-3 colorlib-widget">
+						<h4>Information</h4>
+						<p>
+							<ul class="colorlib-footer-links">
+								<li><a href="#"><i class="icon-check"></i> Home</a></li>
+								<li><a href="#"><i class="icon-check"></i> Gallery</a></li>
+								<li><a href="#"><i class="icon-check"></i> About</a></li>
+								<li><a href="#"><i class="icon-check"></i> Blog</a></li>
+								<li><a href="#"><i class="icon-check"></i> Contact</a></li>
+								<li><a href="#"><i class="icon-check"></i> Privacy</a></li>
+							</ul>
+						</p>
+					</div>
 
 
+					<div class="col-md-3 colorlib-widget">
+						<h4>Contact Info</h4>
+						<ul class="colorlib-footer-links">
+							<li>291 South 21th Street, <br> Suite 721 New York NY 10016</li>
+							<li><a href="tel://1234567920"><i class="icon-phone"></i> + 1235 2355 98</a></li>
+							<li><a href="mailto:info@yoursite.com"><i class="icon-envelope"></i> info@yoursite.com</a></li>
+							<li><a href="#"><i class="icon-location4"></i> yourwebsite.com</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
 
 
-      </div>
-    </div>
-  </section>
+							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</footer>
+	</div>
 
-    <!-- The Features section -->
-    <section id="services">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-12 text-center">
-            <h2 class="section-heading text-uppercase">Features</h2>
-          </div>
-        </div>
-      </div>
+	<div class="gototop js-top">
+		<a href="#" class="/static/js-gotop"><i class="icon-arrow-up2"></i></a>
+	</div>
 
-      <!-- The Search Kinase section -->
-         <div class="row text-center">
-          <div class="col-md-4">
-          <img src="/static/img/kinase.png" alt="Girl in a onci" style="width:80px;height:90px;">
+	<!-- jQuery -->
+	<script src="/static/js/jquery.min.js"></script>
+	<!-- jQuery Easing -->
+	<script src="/static/js/jquery.easing.1.3.js"></script>
+	<!-- Bootstrap -->
+	<script src="/static/js/bootstrap.min.js"></script>
+	<!-- Waypoints -->
+	<script src="/static/js/jquery.waypoints.min.js"></script>
+	<!-- Stellar Parallax -->
+	<script src="/static/js/jquery.stellar.min.js"></script>
+	<!-- YTPlayer -->
+	<script src="/static/js/jquery.mb.YTPlayer.min.js"></script>
+	<!-- Owl carousel -->
+	<script src="/static/js/owl.carousel.min.js"></script>
+	<!-- Magnific Popup -->
+	<script src="/static/js/jquery.magnific-popup.min.js"></script>
+	<script src="/static/js/magnific-popup-options.js"></script>
+	<!-- Counters -->
+	<script src="/static/js/jquery.countTo.js"></script>
+	<!-- Main -->
+	<script src="/static/js/main.js"></script>
 
-            <h4 class="service-heading">Search Kinases </h4>
-
-            <p class="text-muted">Discover background information on any known human kinase, including all sites they are known to phosphorylate and any inhibitor information if available. Browse phosphosite information relative to that kinase, including residue/position and neighbouring sequence. </p>
-            <a class="btn btn-primary" href=# role="button">Please Click Here</a>
-          </div>
-
-          <!-- The Search Inhibitors section -->
-
-          <div class="col-md-4">
-          <img src="/static/img/inhibitor.png" alt="Girl in a onci" style="width:80px;height:90px;">
-            <h4 class="service-heading">Search Kinase Inhibitors</h4>
-            <p class="text-muted">Discover background information on all known inhibitors of human protein kinases, including their name, chemical structure and the kinases they are known to inhibit.</p>
-              <a class="btn btn-primary" href="{{ url_for('inhibitor_search') }}" role="button">Please Click Here</a>
-          </div>
-
-
-          <!-- The Phosphoproteomics section -->
-
-          <div class="col-md-4">
-          <img src="/static/img/upload.png" alt="Girl in a onci" style="width:80px;height:90px;">
-            <h4 class="service-heading">Upload your Phosphoproteomics dataset</h4>
-            <p class="text-muted">Upload your phosphophroteomics data to receive a graphical summmary of your results and the relative activity of all human kinases represented in the dataset.</p>
-            <a class="btn btn-primary" href="{{ url_for('upload') }}" role="button">Please Click Here</a>
-        </div>
-
-
-      </div>
-    </section>
-
-  </section>
-
-
-  <!-- The Team section -->
-  <section class="bg-light" id="team">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-12 text-center">
-          <h2 class="section-heading text-uppercase">Meet the team</h2>
-          <h3 class="section-subheading text-muted">Team Falsone is a 4-member team of MSc in Bioinformatics students at the School of Biological Sciences and Chemistry at Queen Mary University Of London.</h3>
-        </div>
-      </div>
-
-      <!-- The Team members -->
-
-      <div class="row">
-        <div class="col-sm-4">
-          <div class="team-member">
-            <img class="mx-auto rounded-circle" src="/static/img/team/fatma_team_pic.jpg" alt="">
-            <h4>Fatma</h4>
-            <p class="text-muted"></p>
-            <ul class="list-inline social-buttons">
-              <li class="list-inline-item">
-                <a href="#">
-                  <i class="fab fa-twitter"></i>
-                </a>
-              </li>
-              <li class="list-inline-item">
-                <a href="#">
-                  <i class="fab fa-facebook-f"></i>
-                </a>
-              </li>
-              <li class="list-inline-item">
-                <a href="#">
-                  <i class="fab fa-linkedin-in"></i>
-                </a>
-              </li>
-            </ul>
-          </div>
-        </div>
-
-        <div class="col-sm-4">
-          <div class="team-member">
-            <img class="mx-auto rounded-circle" src="/static/img/team/josie_team_pic.jpg" alt="">
-            <h4>Josie</h4>
-            <p class="text-muted"></p>
-            <ul class="list-inline social-buttons">
-              <li class="list-inline-item">
-                <a href="#">
-                  <i class="fab fa-twitter"></i>
-                </a>
-              </li>
-              <li class="list-inline-item">
-                <a href="#">
-                  <i class="fab fa-facebook-f"></i>
-                </a>
-              </li>
-              <li class="list-inline-item">
-                <a href="https://www.linkedin.com/in/josephine-mensah-kane-518401171/">
-                  <i class="fab fa-linkedin-in"></i>
-                </a>
-              </li>
-            </ul>
-          </div>
-        </div>
-
-
-           <div class="col-sm-4">
-          <div class="team-member">
-            <img class="mx-auto rounded-circle" src="/static/img/team/3.jpg" alt="">
-            <h4>Ishack</h4>
-            <p class="text-muted"></p>
-            <ul class="list-inline social-buttons">
-              <li class="list-inline-item">
-                <a href="#">
-                  <i class="fab fa-twitter"></i>
-                </a>
-              </li>
-              <li class="list-inline-item">
-                <a href="#">
-                  <i class="fab fa-facebook-f"></i>
-                </a>
-              </li>
-              <li class="list-inline-item">
-                <a href="https://www.linkedin.com/in/ishackm/">
-                  <i class="fab fa-linkedin-in"></i>
-                </a>
-              </li>
-            </ul>
-          </div>
-        </div>
-
-
-        <div class="col-sm-4">
-          <div class="team-member">
-            <img class="mx-auto rounded-circle" src="/static/img/team/richard_team_pic.jpg" alt="">
-            <h4>Richard</h4>
-            <p class="text-muted"></p>
-            <ul class="list-inline social-buttons">
-              <li class="list-inline-item">
-                <a href="#">
-                  <i class="fab fa-twitter"></i>
-                </a>
-              </li>
-              <li class="list-inline-item">
-                <a href="#">
-                  <i class="fab fa-facebook-f"></i>
-                </a>
-              </li>
-              <li class="list-inline-item">
-                <a href="https://www.linkedin.com/in/richard-burns-ba24b713a/">
-                  <i class="fab fa-linkedin-in"></i>
-                </a>
-              </li>
-            </ul>
-          </div>
-        </div>
-      </div>
-
-
-    {% endblock %}
-
-
-
-{% endblock %}
+	</body>
+</html>
