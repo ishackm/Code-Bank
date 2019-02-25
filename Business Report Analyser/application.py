@@ -14,6 +14,10 @@ application= app = Flask(__name__)
 def index():  # Homepage URL route
     return render_template('index.html')
 
+@app.route('/upload')
+def upload():  # Upload Page
+    return render_template('services.html')
+
 
 # Start the Flask application
 if __name__ == '__main__':
