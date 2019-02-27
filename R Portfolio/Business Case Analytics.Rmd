@@ -1,0 +1,103 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+# The probability of a customer to pay for a fitness app. This analysis will assess the trends and factors that most affect this probability.
+
+#This analysis was run on  R Studio Version 1.1.456
+#Windows 10 
+#Intel i3
+#4GB RAM
+
+
+
+# Explanatory Data Analysis
+```{r}
+gym= read.csv("../Downloads/fitnessAppLog.csv") # import the csv
+gym
+```
+
+```{r}
+str(gym) # the characteristics of the dataset. 
+```
+```{r}
+attach(gym) # attach each of the variables to a variable name 
+```
+
+```{r}
+summary(gym) # summary of the dataset
+```
+```{r}
+#Created a frequency distribution graph for each of the numeric variables.
+hist(Incomes, col = "Pink", main="The Frequency Distribution of Income") # Income
+hist(GymVisits, col = "yellow",xlab = "Gym Visits", main="The Frequency Distribution of Gym Visits") # Gym Visits
+hist(Hours, col = "royalblue", main="The Frequency Distribution of Hours") # Hours
+```
+```{r}
+diagnostic_plot=lm(GymVisits~Incomes*State*Hours*PayOrNot) # Diagnostic plot
+plot(diagnostic_plot) # plot the diagnostic plots
+```
+
+```{r}
+shapiro.test(Incomes) # Normality test 
+```
+# Boxplot
+```{r}
+boxplot(Incomes~PayOrNot, col=c("mistyrose","powderblue"),
+        main="Income vs Pay Status", ylab="Income  £(Thousands)", xlab="Pay Status")  # Boxplot of Pay Status based on Income
+```
+# Correlations Plots
+
+```{r}
+# Income vs Hours
+model_income=(Incomes~Hours) 
+plot(model_income, pch = 20, col= "blue", main= "Hours Vs Incomes")
+abline (lm(model_income), col="red")
+```
+
+```{r}
+# Income vs Gym Visits
+model1=(Incomes~Hours)
+plot(model1, pch = 20, col= "blue", main= "Income Vs Gym Visits")
+abline (lm(model1), col="red")
+```
+#Pearson Correlation Test
+```{r}
+cor.test(Incomes,GymVisits, method = "pearson") # Pearson correlation between income and gym visits
+```
+```{r}
+cor.test(Incomes,Hours, method = "pearson") # Pearson correlation between income and hours
+```
+
+#ANOVA
+```{r}
+anova_model=lm(Incomes~GymVisits*Hours*PayOrNot)
+anova1=anova(anova_model)
+anova1
+```
+
+# Decision Tree Analysis
+
+```{r}
+library(rpart)
+Tree_analysis= rpart(PayOrNot~Incomes+GymVisits+State,data = gym) # Decision Tree model
+Tree_analysis 
+```
+
+```{r}
+#install.packages("rpart.plot") # package for visualisation plot
+```
+
+```{r}
+library("rpart.plot") # for the decision tree plot 
+```
+
+```{r}
+DT=rpart.plot(Tree_analysis,extra = 4)
+```
+
+
+
+
+
