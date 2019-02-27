@@ -1,0 +1,75 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+```{r}
+gym= read.csv("../Downloads/fitnessAppLog.csv")
+gym
+```
+
+```{r}
+str(gym)
+```
+```{r}
+attach(gym)
+```
+
+```{r}
+summary(gym)
+```
+```{r}
+hist(Incomes, col = "Pink")
+hist(GymVisits, col = "yellow")
+hist(Hours, col = "royalblue")
+```
+```{r}
+diagnostic_plot=lm(GymVisits~Incomes*State*Hours*PayOrNot)
+plot(diagnostic_plot)
+```
+
+```{r}
+shapiro.test(Incomes)
+```
+
+```{r}
+model_income=(Incomes~Hours)
+plot(model_income, pch = 20, col= "blue", main= "Hours Vs Incomes")
+abline (lm(model_income), col="red")
+```
+
+```{r}
+model1=(Incomes~Hours)
+plot(model1, pch = 20, col= "blue", main= "Hours Vs Incomes")
+abline (lm(model1), col="red")
+```
+
+```{r}
+boxplot(Incomes~PayOrNot, col=c("mistyrose","powderblue"),
+        main="Income vs Pay Status", ylab="Income £", xlab="Pay Status")  # Boxplot
+```
+
+
+
+
+```{r}
+library(rpart)
+Tree_analysis= rpart(PayOrNot~Incomes+GymVisits+State,data = gym)
+Tree_analysis
+```
+
+```{r}
+install.packages("rpart.plot")
+```
+
+```{r}
+library("rpart.plot")
+```
+
+```{r}
+DT=rpart.plot(Tree_analysis,extra = 4)
+```
+
+
+
+
