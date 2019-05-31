@@ -5,7 +5,7 @@ Ishack
 
 ``` r
 data = read.csv("original_data.csv") # import the dataset
-head(data)
+head(data) # the head of the dataset
 ```
 
     ##   Gene.Symbol        Division          Category QE1_Jo_Exp1_AOCS1
@@ -31,19 +31,19 @@ head(data)
     ## 6       37981.5538
 
 ``` r
-data = subset(data,data$Category!="Non-ECM Protein")
-genename = data[, 1]
-Gene.Symbol = as.data.frame(genename)
+data = subset(data,data$Category!="Non-ECM Protein") # Show proteins that are only ECM 
+genename = data[, 1] # extract the Gene Symbol column 
+Gene.Symbol = as.data.frame(genename) # convert to dataframe
 ```
 
 ``` r
-data$Division <- data$Category <- data$Gene.Symbol <- NULL
+data$Division <- data$Category <- data$Gene.Symbol <- NULL # remove the Division, Category and Gene Symbol columns
 
-pValues <- apply(data, 1, function(x) t.test(x[2:4],x[5:7])$p.value)
-pValues = as.data.frame(pValues)
+pValues <- apply(data, 1, function(x) t.test(x[2:4],x[5:7])$p.value) # do T.test for Malignant samples and Fibroblast samples, 1 means row, 2 means column
+pValues = as.data.frame(pValues) #  the P value as a dataframe
 
 PvData = data.frame(gene=Gene.Symbol,pValues=pValues)
-head(PvData)
+head(PvData) # combine all all columns into the final df
 ```
 
     ##    genename    pValues
