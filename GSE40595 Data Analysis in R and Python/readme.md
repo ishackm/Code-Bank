@@ -1,4 +1,4 @@
-The analysis of the GSE40595 dataset aimed to compared the gene expression between malignant and stroma samples. Data cleaning was used using Python's Pandas and data analysis was completed using R studio. 
+The data analysis of the GSE40595 dataset aimed to compared the gene expression between malignant and stroma samples. Data cleaning was used using Python's Pandas and data analysis was completed using R studio. 
 
 The structure of the project:
 
