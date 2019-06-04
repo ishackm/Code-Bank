@@ -1,0 +1,152 @@
+---
+title: "Ishack"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r}
+library(GEOquery)
+library(ggplot2)
+```
+
+
+
+```{r}
+# Again, with good network access, one would do:
+gse <- getGEO("GSE40595",GSEMatrix=FALSE)
+#gse <- getGEO(filename=system.file("extdata/GSE781_family.soft.gz",package="GEOquery"))
+head(Meta(gse))
+```
+```{r}
+# names of all the GSM objects contained in the GSE
+names(GSMList(gse))
+```
+
+```{r}
+# and get the first GSM object on the list
+GSMList(gse)[[1]]
+```
+```{r}
+# and the names of the GPLs represented
+names(GPLList(gse))
+```
+
+```{r}
+# Note that GSEMatrix=TRUE is the default
+GSE40595 <- getGEO('GSE40595',GSEMatrix=TRUE)
+show(GSE40595)
+```
+
+```{r}
+data = (pData(phenoData(GSE40595[[1]]))[1:100,c(1,6,8)])
+data = na.omit(data)
+data$type <- NULL
+data$title <- NULL
+```
+
+```{r}
+colnames(data)[colnames(data)=="source_name_ch1"] <- "Type of Sample"
+str(data)
+#data
+sample = data
+```
+
+
+```{r}
+levels(sample$`Type of Sample`) <- c("MNOS", "MOCS", "MOSE", "MOTEC")
+#levels(sample$`Type of Sample`)
+plot(sample$`Type of Sample`, col = "pink", main = "Sample based on Tissue Sample", xlab = "Type of Sample", ylab = "Number of Cases")
+
+
+```
+
+```{r}
+# Add title, narrower bars, fill color, and change axis labels
+ggplot(data=sample, aes(x=sample$`Type of Sample`)) + 
+    geom_bar(colour="black", fill="#DD8888", width=.8, stat="count") + 
+    guides(fill=FALSE) +
+    xlab("Type of Tissue") + ylab("Number of Cases") +
+    ggtitle("Sample based on Tissue Type") 
+
+```
+
+```{r}
+data = read.csv("../Data/GSE40595_series_matrix.csv")
+
+head(data)
+```
+```{r}
+require(GEOquery)
+require(Biobase)
+gset <- getGEO("GSE40595", GSEMatrix =TRUE, getGPL=FALSE)
+if (length(gset) > 1) idx <- grep("GPL570", attr(gset, "names")) else idx <- 1
+gset <- gset[[idx]]
+```
+
+```{r}
+dim(exprs(gset))
+```
+
+```{r}
+rownames(exprs(gset))[1:10]
+tail(gset)
+  
+```
+
+
+```{r}
+require("biomaRt")
+mart <- useMart("ENSEMBL_MART_ENSEMBL")
+mart <- useDataset("hsapiens_gene_ensembl", mart)
+annotLookup <- getBM(mart=mart, attributes=c("affy_hg_u133_plus_2", "ensembl_gene_id", "gene_biotype", "external_gene_name"), filter="affy_hg_u133_plus_2", values=rownames(exprs(gset))[1: 54510  ], uniqueRows=TRUE)
+```
+
+```{r}
+
+GeneID_test = annotLookup
+head(GeneID_test,10)
+```
+
+```{r}
+tail(GeneID_test, 1)
+```
+
+
+```{r}
+write.csv(GeneID_test, "../Data/jap.csv")
+```
+
+
+```{r}
+GeneID = read.csv("../Data/Gene ID - R studio result.csv")
+data = GeneID[ , colSums(is.na(GeneID)) == 0]
+
+tail(GeneID [1])
+```
+
+```{r}
+data1= read.csv("../Data/GSE40595.csv")
+View(data1)
+```
+
+```{r}
+
+prob = read.csv("../Data/probs.csv")
+
+```
+
+
+```{r}
+library(mygene)
+xli  <-  prob
+queryMany(xli, scopes="symbol", fields=c("uniprot", "ensembl.gene", "reporter"), species="human")
+```
+
+```{r}
+head(xli)
+```
+

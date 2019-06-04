@@ -1,0 +1,4 @@
+G0 - MNOS Microdissected normal ovarian stroma
+G1 - MOCS Microdissected ovarian cancer stroma
+G2 - MOSE Microdissected surface epithelium
+G3 - MOTEC Microdissected ovarian tumour epithelial componenent 

@@ -1,0 +1,143 @@
+---
+title: "Volcano Plots for all Genes and Matrix Index Genes"
+author: "Ishack"
+date: "3 April 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+    require("ggplot2")
+#G0 - MNOS Microdissected normal ovarian stroma
+#G1 - MOCS Microdissected ovarian cancer stroma
+#G2 - MOSE Microdissected surface epithelium
+#G3 - MOTEC Microdissected ovarian tumour epithelial componenent 
+```
+
+
+
+```{r}
+gene_list= read.csv("../Python/ECM22gene.csv")
+gene_list
+
+```
+
+
+```{r}
+#All Genes
+# MOCS vs MOSE
+MOCSvsMOSE = read.csv("../Data/Comparisons/Sample_Comparisons/G1 - G2 MOCS vs MOSE.csv") # read csv
+res = MOCSvsMOSE
+
+#jpeg('../Data/Comparisons/Volcano Plots/MOCS vs MOSE.jpg') # export image
+
+# Make a basic volcano plot
+with(res, plot(logFC, -log10(P.Value),pch=20, ylab = "-log10(P.Value)" ,main="MOCS vs MOSE", xlim=c(-12.12,12)))
+
+# if adj.P value less than 0.05 = green
+with(subset(res, adj.P.Val<.05 ), points(logFC, -log10(P.Value), pch=20, col="green"))
+
+# if logFC value more than 1 = blue
+with(subset(res, abs(logFC)>1), points(logFC, -log10(P.Value), pch=20, col="blue"))
+
+
+gene_list <- scan("../Python/ECM22gene.csv", what="", sep="\n")
+gene_list <- as.vector(gene_list) 
+
+resmi = res[as.vector(res$Gene.symbol) %in% gene_list,]
+
+with(resmi, points(logFC, -log10(P.Value), pch=20, col="orange"))
+
+#with(res[as.vector(res$Gene.symbol) %in% gene_list,], labels = gene_list (logFC, -log10(P.Value), pch=20, col="orange"))
+
+library(calibrate)
+with (resmi, textxy(logFC, -log10(P.Value), labs=resmi$Gene.symbol, cex=.8))
+
+
+legend(x=5.5,y=53.0, pch=20, bty="n", col=c("orange","blue","green","black"), cex=0.75,
+       legend = c("ECM Matrisome Genes","LogFC>1","Significant","Non - Significant"))
+
+
+#dev.off()
+```
+
+
+
+
+```{r}
+#MOCS vs MOTEC
+MOCSvsMOTEC = read.csv("../Data/Comparisons/Sample_Comparisons/G1 - G3 MOCS vs MOTEC.csv") # read csv
+res = MOCSvsMOTEC
+
+#jpeg('../Data/Comparisons/Volcano Plots/MOCS vs MOTEC.jpg') # export image
+
+# Make a basic volcano plot
+with(res, plot(logFC, -log10(P.Value),pch=20,ylab = "-log10(P.Value)", main="MOCS vs MOTEC", xlim=c(-12.12,12)))
+
+# if adj.P value less than 0.05 = green
+with(subset(res, adj.P.Val<.05 ), points(logFC, -log10(P.Value), pch=20, col="green"))
+
+# if logFC value more than 1 = blue
+with(subset(res, abs(logFC)>1), points(logFC, -log10(P.Value), pch=20, col="blue"))
+
+
+gene_list <- scan("../Python/ECM22gene.csv", what="", sep="\n")
+gene_list <- as.vector(gene_list) 
+
+resmi = res[as.vector(res$Gene.symbol) %in% gene_list,]
+
+with(resmi, points(logFC, -log10(P.Value), pch=20, col="orange"))
+
+#with(res[as.vector(res$Gene.symbol) %in% gene_list,], labels = gene_list (logFC, -log10(P.Value), pch=20, col="orange"))
+
+#library(calibrate)
+with (resmi, textxy(logFC, -log10(P.Value), labs=resmi$Gene.symbol, cex=.8))
+
+legend("topleft", pch=20, bty="n", col=c("orange","blue","green","black"), cex=0.75,
+       legend = c("ECM Matrisome Genes","LogFC>1","Significant","Non - Significant"))
+
+
+
+#dev.off()
+```
+
+
+```{r}
+#MOSE vs MOTEC
+ MOSEvsMOTEC= read.csv("../Data/Comparisons/Sample_Comparisons/G2 - G3 MOSE vs MOTEC.csv") # read csv
+res = MOSEvsMOTEC
+
+#jpeg('../Data/Comparisons/Volcano Plots/MOSE vs MOTEC.jpg') # export image
+
+# Make a basic volcano plot
+with(res, plot(logFC, -log10(P.Value),pch=20, ylab = "-log10(P.Value)" ,main="MOSE vs MOTEC", xlim=c(-12.12,12)))
+
+# if adj.P value less than 0.05 = green
+with(subset(res, adj.P.Val<.05 ), points(logFC, -log10(P.Value), pch=20, col="green"))
+
+# if logFC value more than 1 = blue
+with(subset(res, abs(logFC)>1), points(logFC, -log10(P.Value), pch=20, col="blue"))
+
+
+gene_list <- scan("../Python/ECM22gene.csv", what="", sep="\n")
+gene_list <- as.vector(gene_list) 
+
+resmi = res[as.vector(res$Gene.symbol) %in% gene_list,]
+
+with(resmi, points(logFC, -log10(P.Value), pch=20, col="orange"))
+
+#with(res[as.vector(res$Gene.symbol) %in% gene_list,], labels = gene_list (logFC, -log10(P.Value), pch=20, col="orange"))
+
+library(calibrate)
+with (resmi, textxy(logFC, -log10(P.Value), labs=resmi$Gene.symbol, cex=.8))
+
+legend("topleft", pch=20, bty="n", col=c("orange","blue","green","black"), cex=0.75,
+       legend = c("ECM Matrisome Genes","LogFC>1","Significant","Non - Significant"))
+
+#dev.off()
+```
+
+

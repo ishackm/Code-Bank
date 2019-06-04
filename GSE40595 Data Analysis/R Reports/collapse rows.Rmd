@@ -1,0 +1,37 @@
+---
+title: "Collapse analysis"
+author: "Ishack"
+date: "10 April 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+mat = read.csv("../Data/GSE40595_series_matrix.csv",header = TRUE, row.names = 1)
+mat
+```
+
+
+```{r}
+ann = read.csv("../Data/mat.csv")
+ann
+```
+
+```{r}
+library(WGCNA)
+
+collapse.data.cells  <- collapseRows(datET=mat,rowGroup=ann$Gene.symbol,rowID=rownames(mat))$datETcollapsed
+final_data = collapse.data.cells
+#head(final_data)
+head(final_data)
+```
+
+```{r}
+# Write CSV in R
+write.csv(final_data, file = "../Data/MyData.csv")
+```
+
+`
