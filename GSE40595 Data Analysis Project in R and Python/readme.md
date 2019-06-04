@@ -3,7 +3,7 @@ The data analysis of the GSE40595 dataset aimed to compared the gene expression 
 The structure of the project:
 
 
-![alt text](https://i.ibb.co/qYvtkwY/twitter-header-photo-2.png)
+![alt text](https://i.ibb.co/JsqYJtS/twitter-header-photo-2.png)
 
 
 Differentially expressed gene tables annotated with ECM info
